@@ -1,0 +1,270 @@
+Home_Team,Away_Team,1D_gain_H,1D_gain_A,1D_allowed_H,1D_allowed_A,Yards_gain_H,Yards_gain_A,Yards_allowed_H,Yards_allowed_A,Winner,Line,,Concat1,Concat2,Line
+Kansas City Chiefs,Houston Texans,28,21,21,28,369,360,360,369,Home,-9,,Kansas City ChiefsHouston Texans,Kansas City ChiefsTampa Bay Buccaneers,-3
+Buffalo Bills,New York Jets,31,15,15,31,404,254,254,404,Home,-6.5,,Buffalo BillsNew York Jets,Kansas City ChiefsBuffalo Bills,-3
+Atlanta Falcons,Seattle Seahawks,28,22,22,28,506,383,383,506,Away,1,,Atlanta FalconsSeattle Seahawks,Green Bay PackersTampa Bay Buccaneers,-3
+Washington Football Team,Philadelphia Eagles,18,19,19,18,239,265,265,239,Home,5,,Washington Football TeamPhiladelphia Eagles,New Orleans SaintsTampa Bay Buccaneers,-2.5
+Baltimore Ravens,Cleveland Browns,23,20,20,23,381,306,306,381,Home,-7,,Baltimore RavensCleveland Browns,Kansas City ChiefsCleveland Browns,-8
+New England Patriots,Miami Dolphins,29,20,20,29,357,269,269,357,Home,-7,,New England PatriotsMiami Dolphins,Buffalo BillsBaltimore Ravens,-2.5
+Minnesota Vikings,Green Bay Packers,25,31,31,25,382,522,522,382,Away,-2.5,,Minnesota VikingsGreen Bay Packers,Green Bay PackersLos Angeles Rams,-7
+Jacksonville Jaguars,Indianapolis Colts,17,27,27,17,241,445,445,241,Home,8,,Jacksonville JaguarsIndianapolis Colts,Pittsburgh SteelersCleveland Browns,-5.5
+Detroit Lions,Chicago Bears,25,26,26,25,426,363,363,426,Away,-2.5,,Detroit LionsChicago Bears,New Orleans SaintsChicago Bears,-11
+Carolina Panthers,Las Vegas Raiders,22,23,23,22,388,372,372,388,Away,3,,Carolina PanthersLas Vegas Raiders,Tennessee TitansBaltimore Ravens,3.5
+Cincinnati Bengals,Los Angeles Chargers,19,19,19,19,295,362,362,295,Away,3,,Cincinnati BengalsLos Angeles Chargers,Washington Football TeamTampa Bay Buccaneers,10
+San Francisco 49ers,Arizona Cardinals,18,29,29,18,366,404,404,366,Away,-6.5,,San Francisco 49ersArizona Cardinals,Seattle SeahawksLos Angeles Rams,-3
+New Orleans Saints,Tampa Bay Buccaneers,18,23,23,18,271,310,310,271,Home,-2.5,,New Orleans SaintsTampa Bay Buccaneers,Buffalo BillsIndianapolis Colts,-7
+Los Angeles Rams,Dallas Cowboys,23,24,24,23,422,380,380,422,Home,2,,Los Angeles RamsDallas Cowboys,Philadelphia EaglesWashington Football Team,6.5
+New York Giants,Pittsburgh Steelers,20,19,19,20,291,349,349,291,Away,5.5,,New York GiantsPittsburgh Steelers,Chicago BearsGreen Bay Packers,4.5
+Denver Broncos,Tennessee Titans,19,26,26,19,323,377,377,323,Away,3,,Denver BroncosTennessee Titans,Denver BroncosLas Vegas Raiders,2.5
+Cleveland Browns,Cincinnati Bengals,23,30,30,23,434,353,353,434,Home,-6,,Cleveland BrownsCincinnati Bengals,Kansas City ChiefsLos Angeles Chargers,6.5
+Indianapolis Colts,Minnesota Vikings,24,12,12,24,354,175,175,354,Home,-3,,Indianapolis ColtsMinnesota Vikings,Los Angeles RamsArizona Cardinals,-1
+Chicago Bears,New York Giants,18,22,22,18,304,295,295,304,Home,-5.5,,Chicago BearsNew York Giants,San Francisco 49ersSeattle Seahawks,7
+Tampa Bay Buccaneers,Carolina Panthers,20,24,24,20,339,427,427,339,Home,-8,,Tampa Bay BuccaneersCarolina Panthers,Buffalo BillsMiami Dolphins,3
+Pittsburgh Steelers,Denver Broncos,19,23,23,19,410,319,319,410,Home,-6.5,,Pittsburgh SteelersDenver Broncos,Carolina PanthersNew Orleans Saints,6
+Philadelphia Eagles,Los Angeles Rams,25,30,30,25,363,449,449,363,Away,-1.5,,Philadelphia EaglesLos Angeles Rams,Cincinnati BengalsBaltimore Ravens,13.5
+Tennessee Titans,Jacksonville Jaguars,23,30,30,23,354,480,480,354,Home,-7.5,,Tennessee TitansJacksonville Jaguars,Cleveland BrownsPittsburgh Steelers,-10.5
+New York Jets,San Francisco 49ers,17,17,17,17,277,359,359,277,Away,7,,New York JetsSan Francisco 49ers,Detroit LionsMinnesota Vikings,3
+Miami Dolphins,Buffalo Bills,28,23,23,28,410,523,523,410,Away,5.5,,Miami DolphinsBuffalo Bills,Houston TexansTennessee Titans,7
+Green Bay Packers,Detroit Lions,26,19,19,26,488,307,307,488,Home,-6,,Green Bay PackersDetroit Lions,Indianapolis ColtsJacksonville Jaguars,-15.5
+Dallas Cowboys,Atlanta Falcons,33,22,22,33,570,380,380,570,Home,-3.5,,Dallas CowboysAtlanta Falcons,New England PatriotsNew York Jets,-3
+Arizona Cardinals,Washington Football Team,22,19,19,22,438,316,316,438,Home,-7,,Arizona CardinalsWashington Football Team,New York GiantsDallas Cowboys,1.5
+Los Angeles Chargers,Kansas City Chiefs,28,23,23,28,479,414,414,479,Away,8.5,,Los Angeles ChargersKansas City Chiefs,Tampa Bay BuccaneersAtlanta Falcons,-7
+Houston Texans,Baltimore Ravens,18,23,23,18,304,407,407,304,Away,7,,Houston TexansBaltimore Ravens,New England PatriotsBuffalo Bills,7
+Seattle Seahawks,New England Patriots,22,29,29,22,429,464,464,429,Home,-4,,Seattle SeahawksNew England Patriots,Green Bay PackersTennessee Titans,-3
+Las Vegas Raiders,New Orleans Saints,28,26,26,28,377,424,424,377,Home,5.5,,Las Vegas RaidersNew Orleans Saints,Dallas CowboysPhiladelphia Eagles,3
+Jacksonville Jaguars,Miami Dolphins,22,23,23,22,318,294,294,318,Away,-3,,Jacksonville JaguarsMiami Dolphins,Los Angeles ChargersDenver Broncos,-2
+Buffalo Bills,Los Angeles Rams,23,28,28,23,375,478,478,375,Home,-2,,Buffalo BillsLos Angeles Rams,Seattle SeahawksLos Angeles Rams,-1.5
+Atlanta Falcons,Chicago Bears,22,24,24,22,371,437,437,371,Away,-3,,Atlanta FalconsChicago Bears,Baltimore RavensNew York Giants,-9.5
+Pittsburgh Steelers,Houston Texans,25,13,13,25,387,260,260,387,Home,-4,,Pittsburgh SteelersHouston Texans,Houston TexansCincinnati Bengals,-7.5
+Philadelphia Eagles,Cincinnati Bengals,27,24,24,27,378,304,304,378,Away,-4.5,,Philadelphia EaglesCincinnati Bengals,Jacksonville JaguarsChicago Bears,9.5
+New York Giants,San Francisco 49ers,13,29,29,13,231,420,420,231,Away,3,,New York GiantsSan Francisco 49ers,Kansas City ChiefsAtlanta Falcons,-11
+New England Patriots,Las Vegas Raiders,25,22,22,25,406,375,375,406,Home,-6.5,,New England PatriotsLas Vegas Raiders,New York JetsCleveland Browns,6.5
+Minnesota Vikings,Tennessee Titans,22,23,23,22,464,444,444,464,Away,2.5,,Minnesota VikingsTennessee Titans,Pittsburgh SteelersIndianapolis Colts,1
+Cleveland Browns,Washington Football Team,19,19,19,19,300,309,309,300,Home,-7,,Cleveland BrownsWashington Football Team,Washington Football TeamCarolina Panthers,1
+Los Angeles Chargers,Carolina Panthers,26,14,14,26,436,302,302,436,Away,-6.5,,Los Angeles ChargersCarolina Panthers,Las Vegas RaidersMiami Dolphins,2.5
+Indianapolis Colts,New York Jets,21,15,15,21,353,260,260,353,Home,-11.5,,Indianapolis ColtsNew York Jets,Arizona CardinalsSan Francisco 49ers,-6
+Seattle Seahawks,Dallas Cowboys,23,27,27,23,412,522,522,412,Home,-5,,Seattle SeahawksDallas Cowboys,Detroit LionsTampa Bay Buccaneers,12
+Denver Broncos,Tampa Bay Buccaneers,13,17,17,13,226,353,353,226,Away,6,,Denver BroncosTampa Bay Buccaneers,New Orleans SaintsMinnesota Vikings,-6.5
+Arizona Cardinals,Detroit Lions,28,22,22,28,377,322,322,377,Away,-5.5,,Arizona CardinalsDetroit Lions,Cincinnati BengalsPittsburgh Steelers,14.5
+New Orleans Saints,Green Bay Packers,21,24,24,21,397,369,369,397,Away,-3,,New Orleans SaintsGreen Bay Packers,New York GiantsCleveland Browns,6.5
+Baltimore Ravens,Kansas City Chiefs,16,29,29,16,228,517,517,228,Away,-3,,Baltimore RavensKansas City Chiefs,New Orleans SaintsKansas City Chiefs,2.5
+New York Jets,Denver Broncos,18,21,21,18,321,359,359,321,Away,-1.5,,New York JetsDenver Broncos,Arizona CardinalsPhiladelphia Eagles,-6
+Chicago Bears,Indianapolis Colts,16,18,18,16,269,289,289,269,Away,3,,Chicago BearsIndianapolis Colts,Los Angeles RamsNew York Jets,-17
+Carolina Panthers,Arizona Cardinals,30,21,21,30,444,262,262,444,Home,3,,Carolina PanthersArizona Cardinals,Atlanta FalconsTampa Bay Buccaneers,6
+Washington Football Team,Baltimore Ravens,24,18,18,24,343,350,350,343,Away,14,,Washington Football TeamBaltimore Ravens,Baltimore RavensJacksonville Jaguars,-12.5
+Tampa Bay Buccaneers,Los Angeles Chargers,28,15,15,28,484,324,324,484,Home,-7,,Tampa Bay BuccaneersLos Angeles Chargers,Dallas CowboysSan Francisco 49ers,4
+Miami Dolphins,Seattle Seahawks,25,26,26,25,415,441,441,415,Away,5.5,,Miami DolphinsSeattle Seahawks,Indianapolis ColtsHouston Texans,-7.5
+Houston Texans,Minnesota Vikings,20,24,24,20,386,410,410,386,Away,-3.5,,Houston TexansMinnesota Vikings,Miami DolphinsNew England Patriots,1
+Detroit Lions,New Orleans Saints,18,29,29,18,281,392,392,281,Away,3,,Detroit LionsNew Orleans Saints,Minnesota VikingsChicago Bears,-3
+Dallas Cowboys,Cleveland Browns,35,33,33,35,566,508,508,566,Away,-3.5,,Dallas CowboysCleveland Browns,Tennessee TitansDetroit Lions,-8.5
+Cincinnati Bengals,Jacksonville Jaguars,28,25,25,28,505,429,429,505,Home,-2.5,,Cincinnati BengalsJacksonville Jaguars,Washington Football TeamSeattle Seahawks,6
+Los Angeles Rams,New York Giants,15,19,19,15,240,295,295,240,Home,-13,,Los Angeles RamsNew York Giants,Green Bay PackersCarolina Panthers,-9
+Las Vegas Raiders,Buffalo Bills,24,21,21,24,383,337,337,383,Away,3,,Las Vegas RaidersBuffalo Bills,Denver BroncosBuffalo Bills,6
+San Francisco 49ers,Philadelphia Eagles,25,18,18,25,417,267,267,417,Away,-7.5,,San Francisco 49ersPhiladelphia Eagles,Las Vegas RaidersLos Angeles Chargers,-3.5
+Kansas City Chiefs,New England Patriots,19,21,21,19,323,357,357,323,Home,-7,,Kansas City ChiefsNew England Patriots,Cleveland BrownsBaltimore Ravens,3
+Green Bay Packers,Atlanta Falcons,22,24,24,22,403,327,327,403,Home,-7,,Green Bay PackersAtlanta Falcons,Buffalo BillsPittsburgh Steelers,-2
+Chicago Bears,Tampa Bay Buccaneers,18,18,18,18,243,339,339,243,Home,3.5,,Chicago BearsTampa Bay Buccaneers,Los Angeles ChargersAtlanta Falcons,-1
+Atlanta Falcons,Carolina Panthers,21,24,24,21,373,437,437,373,Away,-2.5,,Atlanta FalconsCarolina Panthers,Philadelphia EaglesNew Orleans Saints,7.5
+Washington Football Team,Los Angeles Rams,10,20,20,10,108,429,429,108,Away,7,,Washington Football TeamLos Angeles Rams,San Francisco 49ersWashington Football Team,-3
+Baltimore Ravens,Cincinnati Bengals,17,12,12,17,332,205,205,332,Home,-11,,Baltimore RavensCincinnati Bengals,Las Vegas RaidersIndianapolis Colts,2.5
+Pittsburgh Steelers,Philadelphia Eagles,25,20,20,25,367,336,336,367,Home,-7,,Pittsburgh SteelersPhiladelphia Eagles,Seattle SeahawksNew York Jets,-16.5
+New York Jets,Arizona Cardinals,21,28,28,21,285,496,496,285,Away,7,,New York JetsArizona Cardinals,Carolina PanthersDenver Broncos,-4
+Kansas City Chiefs,Las Vegas Raiders,21,22,22,21,413,490,490,413,Away,-10.5,,Kansas City ChiefsLas Vegas Raiders,Chicago BearsHouston Texans,1
+Houston Texans,Jacksonville Jaguars,24,22,22,24,486,364,364,486,Home,-5.5,,Houston TexansJacksonville Jaguars,Cincinnati BengalsDallas Cowboys,3
+San Francisco 49ers,Miami Dolphins,19,22,22,19,259,436,436,259,Away,-7.5,,San Francisco 49ersMiami Dolphins,Detroit LionsGreen Bay Packers,9
+Cleveland Browns,Indianapolis Colts,22,15,15,22,385,308,308,385,Home,-1,,Cleveland BrownsIndianapolis Colts,Jacksonville JaguarsTennessee Titans,7.5
+Dallas Cowboys,New York Giants,28,20,20,28,402,300,300,402,Home,-8,,Dallas CowboysNew York Giants,Miami DolphinsKansas City Chiefs,7
+Seattle Seahawks,Minnesota Vikings,18,31,31,18,314,449,449,314,Home,-6.5,,Seattle SeahawksMinnesota Vikings,New York GiantsArizona Cardinals,3
+New Orleans Saints,Los Angeles Chargers,23,19,19,23,408,350,350,408,Home,-7,,New Orleans SaintsLos Angeles Chargers,Tampa Bay BuccaneersMinnesota Vikings,-7
+Tennessee Titans,Buffalo Bills,25,23,23,25,334,370,370,334,Home,3.5,,Tennessee TitansBuffalo Bills,Los Angeles RamsNew England Patriots,-5
+Jacksonville Jaguars,Detroit Lions,16,25,25,16,275,403,403,275,Away,3,,Jacksonville JaguarsDetroit Lions,Baltimore RavensDallas Cowboys,-8.5
+Indianapolis Colts,Cincinnati Bengals,23,22,22,23,430,398,398,430,Home,-7.5,,Indianapolis ColtsCincinnati Bengals,San Francisco 49ersBuffalo Bills,-1.5
+Carolina Panthers,Chicago Bears,23,22,22,23,303,261,261,303,Away,-1.5,,Carolina PanthersChicago Bears,Pittsburgh SteelersWashington Football Team,-6
+Pittsburgh Steelers,Cleveland Browns,18,12,12,18,277,220,220,277,Home,-5.5,,Pittsburgh SteelersCleveland Browns,Kansas City ChiefsDenver Broncos,-13
+Philadelphia Eagles,Baltimore Ravens,19,17,17,19,364,355,355,364,Away,10,,Philadelphia EaglesBaltimore Ravens,Green Bay PackersPhiladelphia Eagles,-8.5
+Tennessee Titans,Houston Texans,31,25,25,31,607,412,412,607,Home,-3.5,,Tennessee TitansHouston Texans,Los Angeles ChargersNew England Patriots,-2
+New York Giants,Washington Football Team,16,24,24,16,240,337,337,240,Home,-2.5,,New York GiantsWashington Football Team,Arizona CardinalsLos Angeles Rams,2.5
+New England Patriots,Denver Broncos,14,15,15,14,288,299,299,288,Away,-8,,New England PatriotsDenver Broncos,Seattle SeahawksNew York Giants,-11
+Minnesota Vikings,Atlanta Falcons,19,24,24,19,365,462,462,365,Away,-4,,Minnesota VikingsAtlanta Falcons,Atlanta FalconsNew Orleans Saints,2.5
+Miami Dolphins,New York Jets,18,13,13,18,302,263,263,302,Home,-9,,Miami DolphinsNew York Jets,Chicago BearsDetroit Lions,-3
+Tampa Bay Buccaneers,Green Bay Packers,21,13,13,21,324,201,201,324,Home,1,,Tampa Bay BuccaneersGreen Bay Packers,Houston TexansIndianapolis Colts,3.5
+San Francisco 49ers,Los Angeles Rams,24,17,17,24,390,311,311,390,Home,2.5,,San Francisco 49ersLos Angeles Rams,Miami DolphinsCincinnati Bengals,-10
+Buffalo Bills,Kansas City Chiefs,20,27,27,20,206,466,466,206,Away,5,,Buffalo BillsKansas City Chiefs,Minnesota VikingsJacksonville Jaguars,-10
+Dallas Cowboys,Arizona Cardinals,27,22,22,27,344,438,438,344,Away,1,,Dallas CowboysArizona Cardinals,New York JetsLas Vegas Raiders,7.5
+Philadelphia Eagles,New York Giants,27,17,17,27,442,325,325,442,Home,-4.5,,Philadelphia EaglesNew York Giants,Tennessee TitansCleveland Browns,-3.5
+Cincinnati Bengals,Cleveland Browns,31,23,23,31,468,398,398,468,Away,3,,Cincinnati BengalsCleveland Browns,Pittsburgh SteelersBaltimore Ravens,-5
+Atlanta Falcons,Detroit Lions,26,21,21,26,388,386,386,388,Away,-2,,Atlanta FalconsDetroit Lions,Philadelphia EaglesSeattle Seahawks,6.5
+Washington Football Team,Dallas Cowboys,21,12,12,21,397,142,142,397,Home,-1,,Washington Football TeamDallas Cowboys,Green Bay PackersChicago Bears,-9.5
+Tennessee Titans,Pittsburgh Steelers,15,23,23,15,292,362,362,292,Away,-1,,Tennessee TitansPittsburgh Steelers,Tampa Bay BuccaneersKansas City Chiefs,3.5
+New York Jets,Buffalo Bills,17,26,26,17,191,422,422,191,Away,10,,New York JetsBuffalo Bills,Denver BroncosNew Orleans Saints,14.5
+New Orleans Saints,Carolina Panthers,26,18,18,26,415,283,283,415,Home,-6.5,,New Orleans SaintsCarolina Panthers,Los Angeles RamsSan Francisco 49ers,-6.5
+Houston Texans,Green Bay Packers,20,22,22,20,365,379,379,365,Away,3,,Houston TexansGreen Bay Packers,Atlanta FalconsLas Vegas Raiders,3
+Las Vegas Raiders,Tampa Bay Buccaneers,19,29,29,19,347,454,454,347,Away,3.5,,Las Vegas RaidersTampa Bay Buccaneers,Buffalo BillsLos Angeles Chargers,-4.5
+Los Angeles Chargers,Jacksonville Jaguars,29,15,15,29,484,294,294,484,Home,-7.5,,Los Angeles ChargersJacksonville Jaguars,Cincinnati BengalsNew York Giants,6
+New England Patriots,San Francisco 49ers,17,26,26,17,241,467,467,241,Away,-3,,New England PatriotsSan Francisco 49ers,Indianapolis ColtsTennessee Titans,-3
+Denver Broncos,Kansas City Chiefs,24,17,17,24,411,286,286,411,Away,7,,Denver BroncosKansas City Chiefs,Jacksonville JaguarsCleveland Browns,7
+Arizona Cardinals,Seattle Seahawks,31,33,33,31,519,572,572,519,Home,3.5,,Arizona CardinalsSeattle Seahawks,Minnesota VikingsCarolina Panthers,-3
+Los Angeles Rams,Chicago Bears,24,14,14,24,371,279,279,371,Home,-6,,Los Angeles RamsChicago Bears,New England PatriotsArizona Cardinals,2
+Carolina Panthers,Atlanta Falcons,18,28,28,18,304,401,401,304,Away,-2,,Carolina PanthersAtlanta Falcons,New York JetsMiami Dolphins,7
+Buffalo Bills,New England Patriots,22,20,20,22,339,349,349,339,Home,-4.5,,Buffalo BillsNew England Patriots,Dallas CowboysWashington Football Team,-3
+Baltimore Ravens,Pittsburgh Steelers,25,19,19,25,457,221,221,457,Away,-4,,Baltimore RavensPittsburgh Steelers,Detroit LionsHouston Texans,3
+Miami Dolphins,Los Angeles Rams,8,31,31,8,145,471,471,145,Home,3.5,,Miami DolphinsLos Angeles Rams,Tampa Bay BuccaneersLos Angeles Rams,-4.5
+Kansas City Chiefs,New York Jets,25,13,13,25,496,221,221,496,Home,-19.5,,Kansas City ChiefsNew York Jets,Las Vegas RaidersKansas City Chiefs,7.5
+Green Bay Packers,Minnesota Vikings,24,20,20,24,400,324,324,400,Away,-6.5,,Green Bay PackersMinnesota Vikings,Indianapolis ColtsGreen Bay Packers,-1.5
+Detroit Lions,Indianapolis Colts,20,26,26,20,326,366,366,326,Away,3,,Detroit LionsIndianapolis Colts,Minnesota VikingsDallas Cowboys,-7
+Cleveland Browns,Las Vegas Raiders,14,24,24,14,223,309,309,223,Away,-1.5,,Cleveland BrownsLas Vegas Raiders,Denver BroncosMiami Dolphins,3.5
+Cincinnati Bengals,Tennessee Titans,27,27,27,27,367,441,441,367,Home,7,,Cincinnati BengalsTennessee Titans,Los Angeles ChargersNew York Jets,-9.5
+Denver Broncos,Los Angeles Chargers,17,28,28,17,351,485,485,351,Home,3.5,,Denver BroncosLos Angeles Chargers,Baltimore RavensTennessee Titans,-6
+Chicago Bears,New Orleans Saints,18,23,23,18,329,394,394,329,Away,4,,Chicago BearsNew Orleans Saints,Carolina PanthersDetroit Lions,1.5
+Seattle Seahawks,San Francisco 49ers,27,24,24,27,350,351,351,350,Home,-3,,Seattle SeahawksSan Francisco 49ers,Cleveland BrownsPhiladelphia Eagles,-3
+Philadelphia Eagles,Dallas Cowboys,18,21,21,18,222,265,265,222,Home,-11.5,,Philadelphia EaglesDallas Cowboys,Houston TexansNew England Patriots,2.5
+New York Giants,Tampa Bay Buccaneers,24,23,23,24,357,344,344,357,Away,12.5,,New York GiantsTampa Bay Buccaneers,Jacksonville JaguarsPittsburgh Steelers,10.5
+San Francisco 49ers,Green Bay Packers,17,21,21,17,337,405,405,337,Away,7.5,,San Francisco 49ersGreen Bay Packers,New Orleans SaintsAtlanta Falcons,-3.5
+Buffalo Bills,Seattle Seahawks,27,22,22,27,420,419,419,420,Home,3,,Buffalo BillsSeattle Seahawks,Washington Football TeamCincinnati Bengals,-1.5
+Atlanta Falcons,Denver Broncos,23,23,23,23,363,405,405,363,Home,-4,,Atlanta FalconsDenver Broncos,Seattle SeahawksArizona Cardinals,-3
+Washington Football Team,New York Giants,19,22,22,19,402,350,350,402,Away,-2.5,,Washington Football TeamNew York Giants,Chicago BearsMinnesota Vikings,3
+Tennessee Titans,Chicago Bears,11,22,22,11,228,375,375,228,Home,-6.5,,Tennessee TitansChicago Bears,New England PatriotsBaltimore Ravens,7
+Minnesota Vikings,Detroit Lions,22,30,30,22,487,421,421,487,Home,-4,,Minnesota VikingsDetroit Lions,Los Angeles RamsSeattle Seahawks,-3
+Kansas City Chiefs,Carolina Panthers,24,30,30,24,397,435,435,397,Home,-10,,Kansas City ChiefsCarolina Panthers,New Orleans SaintsSan Francisco 49ers,-9.5
+Jacksonville Jaguars,Houston Texans,22,19,19,22,403,374,374,403,Away,6.5,,Jacksonville JaguarsHouston Texans,Arizona CardinalsBuffalo Bills,-2.5
+Indianapolis Colts,Baltimore Ravens,20,19,19,20,339,266,266,339,Away,1,,Indianapolis ColtsBaltimore Ravens,Las Vegas RaidersDenver Broncos,-3.5
+Los Angeles Chargers,Las Vegas Raiders,26,16,16,26,440,320,320,440,Away,1,,Los Angeles ChargersLas Vegas Raiders,Miami DolphinsLos Angeles Chargers,-2
+Dallas Cowboys,Pittsburgh Steelers,19,20,20,19,364,355,355,364,Away,14,,Dallas CowboysPittsburgh Steelers,Carolina PanthersTampa Bay Buccaneers,6
+Arizona Cardinals,Miami Dolphins,26,24,24,26,442,312,312,442,Away,-5.5,,Arizona CardinalsMiami Dolphins,Cleveland BrownsHouston Texans,-4
+Tampa Bay Buccaneers,New Orleans Saints,13,27,27,13,194,420,420,194,Away,-4,,Tampa Bay BuccaneersNew Orleans Saints,Detroit LionsWashington Football Team,-3
+New York Jets,New England Patriots,18,30,30,18,322,433,433,322,Away,9.5,,New York JetsNew England Patriots,Green Bay PackersJacksonville Jaguars,-14
+Tennessee Titans,Indianapolis Colts,25,26,26,25,294,430,430,294,Away,-1,,Tennessee TitansIndianapolis Colts,New York GiantsPhiladelphia Eagles,4
+Cleveland Browns,Houston Texans,20,16,16,20,356,243,243,356,Home,-4,,Cleveland BrownsHouston Texans,Pittsburgh SteelersCincinnati Bengals,-7
+Carolina Panthers,Tampa Bay Buccaneers,13,30,30,13,187,544,544,187,Away,6,,Carolina PanthersTampa Bay Buccaneers,Tennessee TitansIndianapolis Colts,-1
+New York Giants,Philadelphia Eagles,22,22,22,22,382,346,346,382,Home,4,,New York GiantsPhiladelphia Eagles,New York JetsNew England Patriots,9.5
+Green Bay Packers,Jacksonville Jaguars,16,16,16,16,395,260,260,395,Home,-14,,Green Bay PackersJacksonville Jaguars,Tampa Bay BuccaneersNew Orleans Saints,-4
+Detroit Lions,Washington Football Team,21,34,34,21,372,464,464,372,Home,-3,,Detroit LionsWashington Football Team,Arizona CardinalsMiami Dolphins,-5.5
+Las Vegas Raiders,Denver Broncos,21,20,20,21,357,313,313,357,Home,-3.5,,Las Vegas RaidersDenver Broncos,Dallas CowboysPittsburgh Steelers,14
+Miami Dolphins,Los Angeles Chargers,17,19,19,17,280,273,273,280,Home,-2,,Miami DolphinsLos Angeles Chargers,Los Angeles ChargersLas Vegas Raiders,1
+Arizona Cardinals,Buffalo Bills,26,22,22,26,453,369,369,453,Home,-2.5,,Arizona CardinalsBuffalo Bills,Atlanta FalconsDenver Broncos,-4
+Los Angeles Rams,Seattle Seahawks,24,20,20,24,389,333,333,389,Home,-3,,Los Angeles RamsSeattle Seahawks,Buffalo BillsSeattle Seahawks,3
+Pittsburgh Steelers,Cincinnati Bengals,22,16,16,22,377,324,324,377,Home,-7,,Pittsburgh SteelersCincinnati Bengals,Indianapolis ColtsBaltimore Ravens,1
+New Orleans Saints,San Francisco 49ers,17,21,21,17,237,281,281,237,Home,-9.5,,New Orleans SaintsSan Francisco 49ers,Jacksonville JaguarsHouston Texans,6.5
+New England Patriots,Baltimore Ravens,25,19,19,25,308,357,357,308,Home,7,,New England PatriotsBaltimore Ravens,Kansas City ChiefsCarolina Panthers,-10
+Chicago Bears,Minnesota Vikings,10,19,19,10,149,385,385,149,Away,3,,Chicago BearsMinnesota Vikings,Minnesota VikingsDetroit Lions,-4
+Seattle Seahawks,Arizona Cardinals,22,24,24,22,347,314,314,347,Home,-3,,Seattle SeahawksArizona Cardinals,Tennessee TitansChicago Bears,-6.5
+Cleveland Browns,Philadelphia Eagles,17,19,19,17,324,315,315,324,Home,-3,,Cleveland BrownsPhiladelphia Eagles,Washington Football TeamNew York Giants,-2.5
+Carolina Panthers,Detroit Lions,20,10,10,20,374,185,185,374,Home,1.5,,Carolina PanthersDetroit Lions,San Francisco 49ersGreen Bay Packers,7.5
+Washington Football Team,Cincinnati Bengals,20,18,18,20,325,272,272,325,Home,-1.5,,Washington Football TeamCincinnati Bengals,New York GiantsTampa Bay Buccaneers,12.5
+Baltimore Ravens,Tennessee Titans,21,26,26,21,306,423,423,306,Away,-6,,Baltimore RavensTennessee Titans,Philadelphia EaglesDallas Cowboys,-11.5
+New Orleans Saints,Atlanta Falcons,24,14,14,24,376,248,248,376,Home,-3.5,,New Orleans SaintsAtlanta Falcons,Chicago BearsNew Orleans Saints,4
+Jacksonville Jaguars,Pittsburgh Steelers,14,23,23,14,206,373,373,206,Away,10.5,,Jacksonville JaguarsPittsburgh Steelers,Seattle SeahawksSan Francisco 49ers,-3
+Houston Texans,New England Patriots,21,22,22,21,399,435,435,399,Home,2.5,,Houston TexansNew England Patriots,Denver BroncosLos Angeles Chargers,3.5
+Los Angeles Chargers,New York Jets,28,20,20,28,376,292,292,376,Home,-9.5,,Los Angeles ChargersNew York Jets,Baltimore RavensPittsburgh Steelers,-4
+Denver Broncos,Miami Dolphins,19,17,17,19,459,223,223,459,Home,3.5,,Denver BroncosMiami Dolphins,Buffalo BillsNew England Patriots,-4.5
+Minnesota Vikings,Dallas Cowboys,24,24,24,24,430,376,376,430,Away,-7,,Minnesota VikingsDallas Cowboys,Cincinnati BengalsTennessee Titans,7
+Indianapolis Colts,Green Bay Packers,23,21,21,23,420,367,367,420,Home,-1.5,,Indianapolis ColtsGreen Bay Packers,Cleveland BrownsLas Vegas Raiders,-1.5
+Las Vegas Raiders,Kansas City Chiefs,25,36,36,25,364,460,460,364,Away,7.5,,Las Vegas RaidersKansas City Chiefs,Detroit LionsIndianapolis Colts,3
+Tampa Bay Buccaneers,Los Angeles Rams,20,22,22,20,251,413,413,251,Away,-4.5,,Tampa Bay BuccaneersLos Angeles Rams,Green Bay PackersMinnesota Vikings,-6.5
+Detroit Lions,Houston Texans,28,21,21,28,388,384,384,388,Away,3,,Detroit LionsHouston Texans,Kansas City ChiefsNew York Jets,-19.5
+Dallas Cowboys,Washington Football Team,13,22,22,13,247,338,338,247,Away,-3,,Dallas CowboysWashington Football Team,Miami DolphinsLos Angeles Rams,3.5
+Atlanta Falcons,Las Vegas Raiders,23,13,13,23,304,243,243,304,Home,3,,Atlanta FalconsLas Vegas Raiders,Carolina PanthersAtlanta Falcons,-2
+New York Jets,Miami Dolphins,10,22,22,10,260,345,345,260,Away,7,,New York JetsMiami Dolphins,Los Angeles RamsChicago Bears,-6
+New England Patriots,Arizona Cardinals,16,23,23,16,179,298,298,179,Home,2,,New England PatriotsArizona Cardinals,Las Vegas RaidersTampa Bay Buccaneers,3.5
+Minnesota Vikings,Carolina Panthers,26,21,21,26,387,374,374,387,Home,-3,,Minnesota VikingsCarolina Panthers,Los Angeles ChargersJacksonville Jaguars,-7.5
+Jacksonville Jaguars,Cleveland Browns,22,25,25,22,375,459,459,375,Away,7,,Jacksonville JaguarsCleveland Browns,Denver BroncosKansas City Chiefs,7
+Indianapolis Colts,Tennessee Titans,27,28,28,27,336,449,449,336,Away,-3,,Indianapolis ColtsTennessee Titans,New England PatriotsSan Francisco 49ers,-3
+Cincinnati Bengals,New York Giants,11,19,19,11,155,386,386,155,Away,6,,Cincinnati BengalsNew York Giants,Arizona CardinalsSeattle Seahawks,3.5
+Buffalo Bills,Los Angeles Chargers,23,24,24,23,332,367,367,332,Home,-4.5,,Buffalo BillsLos Angeles Chargers,Atlanta FalconsDetroit Lions,-2
+Los Angeles Rams,San Francisco 49ers,14,18,18,14,308,345,345,308,Away,-6.5,,Los Angeles RamsSan Francisco 49ers,Cincinnati BengalsCleveland Browns,3
+Denver Broncos,New Orleans Saints,6,19,19,6,112,292,292,112,Away,14.5,,Denver BroncosNew Orleans Saints,Houston TexansGreen Bay Packers,3
+Tampa Bay Buccaneers,Kansas City Chiefs,20,26,26,20,417,543,543,417,Away,3.5,,Tampa Bay BuccaneersKansas City Chiefs,New Orleans SaintsCarolina Panthers,-6.5
+Green Bay Packers,Chicago Bears,28,26,26,28,393,350,350,393,Home,-9.5,,Green Bay PackersChicago Bears,Tennessee TitansPittsburgh Steelers,-1
+Philadelphia Eagles,Seattle Seahawks,18,20,20,18,250,301,301,250,Away,6.5,,Philadelphia EaglesSeattle Seahawks,New York JetsBuffalo Bills,10
+Pittsburgh Steelers,Baltimore Ravens,22,10,10,22,334,219,219,334,Home,-5,,Pittsburgh SteelersBaltimore Ravens,Washington Football TeamDallas Cowboys,-1
+Chicago Bears,Detroit Lions,26,24,24,26,389,460,460,389,Away,-3,,Chicago BearsDetroit Lions,Philadelphia EaglesNew York Giants,-4.5
+Atlanta Falcons,New Orleans Saints,21,23,23,21,332,424,424,332,Away,2.5,,Atlanta FalconsNew Orleans Saints,Dallas CowboysArizona Cardinals,1
+Tennessee Titans,Cleveland Browns,25,26,26,25,431,458,458,431,Away,-3.5,,Tennessee TitansCleveland Browns,Buffalo BillsKansas City Chiefs,5
+New York Jets,Las Vegas Raiders,24,24,24,24,376,440,440,376,Away,7.5,,New York JetsLas Vegas Raiders,San Francisco 49ersLos Angeles Rams,2.5
+Minnesota Vikings,Jacksonville Jaguars,30,20,20,30,420,390,390,420,Home,-10,,Minnesota VikingsJacksonville Jaguars,Tampa Bay BuccaneersGreen Bay Packers,1
+Miami Dolphins,Cincinnati Bengals,23,12,12,23,406,196,196,406,Home,-10,,Miami DolphinsCincinnati Bengals,Miami DolphinsNew York Jets,-9
+Houston Texans,Indianapolis Colts,20,25,25,20,398,371,371,398,Away,3.5,,Houston TexansIndianapolis Colts,Carolina PanthersChicago Bears,-1.5
+Arizona Cardinals,Los Angeles Rams,18,30,30,18,232,463,463,232,Away,2.5,,Arizona CardinalsLos Angeles Rams,Indianapolis ColtsCincinnati Bengals,-7.5
+Seattle Seahawks,New York Giants,21,13,13,21,327,290,290,327,Away,-11,,Seattle SeahawksNew York Giants,Jacksonville JaguarsDetroit Lions,3
+Los Angeles Chargers,New England Patriots,17,22,22,17,258,291,291,258,Away,-2,,Los Angeles ChargersNew England Patriots,Minnesota VikingsAtlanta Falcons,-4
+Green Bay Packers,Philadelphia Eagles,20,17,17,20,437,278,278,437,Home,-8.5,,Green Bay PackersPhiladelphia Eagles,New England PatriotsDenver Broncos,-8
+Kansas City Chiefs,Denver Broncos,25,19,19,25,447,330,330,447,Home,-13,,Kansas City ChiefsDenver Broncos,New York GiantsWashington Football Team,-2.5
+Pittsburgh Steelers,Washington Football Team,17,18,18,17,326,318,318,326,Away,-6,,Pittsburgh SteelersWashington Football Team,Philadelphia EaglesBaltimore Ravens,10
+San Francisco 49ers,Buffalo Bills,24,31,31,24,402,449,449,402,Away,-1.5,,San Francisco 49ersBuffalo Bills,Pittsburgh SteelersCleveland Browns,-3
+Baltimore Ravens,Dallas Cowboys,19,29,29,19,401,388,388,401,Home,-8.5,,Baltimore RavensDallas Cowboys,Tennessee TitansHouston Texans,-3.5
+Los Angeles Rams,New England Patriots,17,10,10,17,318,220,220,318,Home,-5,,Los Angeles RamsNew England Patriots,Tennessee TitansBuffalo Bills,3.5
+Carolina Panthers,Denver Broncos,22,23,23,22,370,365,365,370,Away,-4,,Carolina PanthersDenver Broncos,New Orleans SaintsLos Angeles Chargers,-7
+Tampa Bay Buccaneers,Minnesota Vikings,17,27,27,17,303,335,335,303,Home,-7,,Tampa Bay BuccaneersMinnesota Vikings,Seattle SeahawksMinnesota Vikings,-6.5
+New York Giants,Arizona Cardinals,10,22,22,10,159,390,390,159,Away,3,,New York GiantsArizona Cardinals,Cleveland BrownsIndianapolis Colts,-1
+Miami Dolphins,Kansas City Chiefs,27,22,22,27,367,448,448,367,Away,7,,Miami DolphinsKansas City Chiefs,Dallas CowboysNew York Giants,-8
+Jacksonville Jaguars,Tennessee Titans,20,25,25,20,354,454,454,354,Away,7.5,,Jacksonville JaguarsTennessee Titans,San Francisco 49ersMiami Dolphins,-7.5
+Cincinnati Bengals,Dallas Cowboys,18,16,16,18,309,272,272,309,Away,3,,Cincinnati BengalsDallas Cowboys,Atlanta FalconsCarolina Panthers,-2.5
+Chicago Bears,Houston Texans,23,17,17,23,410,263,263,410,Home,1,,Chicago BearsHouston Texans,Baltimore RavensCincinnati Bengals,-11
+Seattle Seahawks,New York Jets,28,12,12,28,410,185,185,410,Home,-16.5,,Seattle SeahawksNew York Jets,Houston TexansJacksonville Jaguars,-5.5
+Las Vegas Raiders,Indianapolis Colts,26,25,25,26,424,456,456,424,Away,2.5,,Las Vegas RaidersIndianapolis Colts,Kansas City ChiefsLas Vegas Raiders,-10.5
+San Francisco 49ers,Washington Football Team,21,12,12,21,344,193,193,344,Away,-3,,San Francisco 49ersWashington Football Team,New York JetsArizona Cardinals,7
+Los Angeles Chargers,Atlanta Falcons,23,19,19,23,345,319,319,345,Home,-1,,Los Angeles ChargersAtlanta Falcons,Pittsburgh SteelersPhiladelphia Eagles,-7
+Philadelphia Eagles,New Orleans Saints,21,20,20,21,413,358,358,413,Home,7.5,,Philadelphia EaglesNew Orleans Saints,Washington Football TeamLos Angeles Rams,7
+Detroit Lions,Green Bay Packers,27,26,26,27,293,410,410,293,Away,9,,Detroit LionsGreen Bay Packers,Chicago BearsTampa Bay Buccaneers,3.5
+Buffalo Bills,Pittsburgh Steelers,21,14,14,21,334,224,224,334,Home,-2,,Buffalo BillsPittsburgh Steelers,Green Bay PackersAtlanta Falcons,-7
+Cleveland Browns,Baltimore Ravens,33,25,25,33,493,385,385,493,Away,3,,Cleveland BrownsBaltimore Ravens,Kansas City ChiefsNew England Patriots,-7
+Las Vegas Raiders,Los Angeles Chargers,27,27,27,27,449,402,402,449,Away,-3.5,,Las Vegas RaidersLos Angeles Chargers,San Francisco 49ersPhiladelphia Eagles,-7.5
+Denver Broncos,Buffalo Bills,19,29,29,19,255,534,534,255,Away,6,,Denver BroncosBuffalo Bills,Las Vegas RaidersBuffalo Bills,3
+Green Bay Packers,Carolina Panthers,20,20,20,20,291,364,364,291,Home,-9,,Green Bay PackersCarolina Panthers,Los Angeles RamsNew York Giants,-13
+Washington Football Team,Seattle Seahawks,26,16,16,26,353,302,302,353,Away,6,,Washington Football TeamSeattle Seahawks,Carolina PanthersArizona Cardinals,3
+Baltimore Ravens,Jacksonville Jaguars,26,17,17,26,409,267,267,409,Home,-12.5,,Baltimore RavensJacksonville Jaguars,Chicago BearsIndianapolis Colts,3
+Tennessee Titans,Detroit Lions,28,27,27,28,463,430,430,463,Home,-8.5,,Tennessee TitansDetroit Lions,Cincinnati BengalsJacksonville Jaguars,-2.5
+Minnesota Vikings,Chicago Bears,26,23,23,26,407,397,397,407,Away,-3,,Minnesota VikingsChicago Bears,Dallas CowboysCleveland Browns,-3.5
+Miami Dolphins,New England Patriots,26,18,18,26,383,303,303,383,Home,1,,Miami DolphinsNew England Patriots,Detroit LionsNew Orleans Saints,3
+Dallas Cowboys,San Francisco 49ers,15,28,28,15,291,458,458,291,Home,4,,Dallas CowboysSan Francisco 49ers,Houston TexansMinnesota Vikings,-3.5
+Indianapolis Colts,Houston Texans,20,22,22,20,350,425,425,350,Home,-7.5,,Indianapolis ColtsHouston Texans,Miami DolphinsSeattle Seahawks,5.5
+Atlanta Falcons,Tampa Bay Buccaneers,23,27,27,23,369,416,416,369,Away,6,,Atlanta FalconsTampa Bay Buccaneers,Tampa Bay BuccaneersLos Angeles Chargers,-7
+Los Angeles Rams,New York Jets,16,17,17,16,303,289,289,303,Away,-17,,Los Angeles RamsNew York Jets,Washington Football TeamBaltimore Ravens,14
+Arizona Cardinals,Philadelphia Eagles,26,26,26,26,526,422,422,526,Home,-6,,Arizona CardinalsPhiladelphia Eagles,New York JetsDenver Broncos,-1.5
+New Orleans Saints,Kansas City Chiefs,15,34,34,15,285,411,411,285,Away,2.5,,New Orleans SaintsKansas City Chiefs,Baltimore RavensKansas City Chiefs,-3
+New York Giants,Cleveland Browns,14,24,24,14,288,392,392,288,Away,6.5,,New York GiantsCleveland Browns,New Orleans SaintsGreen Bay Packers,-3
+Cincinnati Bengals,Pittsburgh Steelers,13,12,12,13,230,244,244,230,Home,14.5,,Cincinnati BengalsPittsburgh Steelers,Arizona CardinalsDetroit Lions,-5.5
+New Orleans Saints,Minnesota Vikings,36,25,25,36,583,364,364,583,Home,-6.5,,New Orleans SaintsMinnesota Vikings,Denver BroncosTampa Bay Buccaneers,6
+Detroit Lions,Tampa Bay Buccaneers,12,30,30,12,186,588,588,186,Away,12,,Detroit LionsTampa Bay Buccaneers,Seattle SeahawksDallas Cowboys,-5
+Arizona Cardinals,San Francisco 49ers,20,22,22,20,350,398,398,350,Away,-6,,Arizona CardinalsSan Francisco 49ers,Indianapolis ColtsNew York Jets,-11.5
+Las Vegas Raiders,Miami Dolphins,23,18,18,23,418,383,383,418,Away,2.5,,Las Vegas RaidersMiami Dolphins,Los Angeles ChargersCarolina Panthers,-6.5
+Baltimore Ravens,New York Giants,25,24,24,25,432,269,269,432,Home,-9.5,,Baltimore RavensNew York Giants,Atlanta FalconsChicago Bears,-3
+Pittsburgh Steelers,Indianapolis Colts,26,21,21,26,354,365,365,354,Home,1,,Pittsburgh SteelersIndianapolis Colts,Buffalo BillsLos Angeles Rams,-2
+New York Jets,Cleveland Browns,18,23,23,18,333,299,299,333,Home,6.5,,New York JetsCleveland Browns,Cleveland BrownsWashington Football Team,-7
+Kansas City Chiefs,Atlanta Falcons,23,23,23,23,395,367,367,395,Home,-11,,Kansas City ChiefsAtlanta Falcons,Minnesota VikingsTennessee Titans,2.5
+Jacksonville Jaguars,Chicago Bears,14,28,28,14,279,391,391,279,Away,9.5,,Jacksonville JaguarsChicago Bears,New England PatriotsLas Vegas Raiders,-6.5
+Houston Texans,Cincinnati Bengals,23,27,27,23,488,540,540,488,Away,-7.5,,Houston TexansCincinnati Bengals,New York GiantsSan Francisco 49ers,3
+Washington Football Team,Carolina Panthers,20,19,19,20,386,280,280,386,Away,1,,Washington Football TeamCarolina Panthers,Philadelphia EaglesCincinnati Bengals,-4.5
+Los Angeles Chargers,Denver Broncos,16,23,23,16,316,396,396,316,Home,-2,,Los Angeles ChargersDenver Broncos,Pittsburgh SteelersHouston Texans,-4
+Seattle Seahawks,Los Angeles Rams,15,20,20,15,292,334,334,292,Home,-3,,Seattle SeahawksLos Angeles Rams,Jacksonville JaguarsMiami Dolphins,-3
+Dallas Cowboys,Philadelphia Eagles,22,24,24,22,513,477,477,513,Home,3,,Dallas CowboysPhiladelphia Eagles,Las Vegas RaidersNew Orleans Saints,5.5
+Green Bay Packers,Tennessee Titans,27,15,15,27,448,260,260,448,Home,-3,,Green Bay PackersTennessee Titans,Seattle SeahawksNew England Patriots,-4
+New England Patriots,Buffalo Bills,11,31,31,11,201,474,474,201,Away,7,,New England PatriotsBuffalo Bills,Houston TexansBaltimore Ravens,7
+Buffalo Bills,Miami Dolphins,24,27,27,24,455,454,454,455,Home,3,,Buffalo BillsMiami Dolphins,Los Angeles ChargersKansas City Chiefs,8.5
+Tampa Bay Buccaneers,Atlanta Falcons,28,25,25,28,485,385,385,485,Home,-7,,Tampa Bay BuccaneersAtlanta Falcons,Arizona CardinalsWashington Football Team,-7
+New York Giants,Dallas Cowboys,22,26,26,22,336,307,307,336,Home,1.5,,New York GiantsDallas Cowboys,Chicago BearsNew York Giants,-5.5
+New England Patriots,New York Jets,23,21,21,23,404,350,350,404,Home,-3,,New England PatriotsNew York Jets,Dallas CowboysAtlanta Falcons,-3.5
+Detroit Lions,Minnesota Vikings,21,31,31,21,417,508,508,417,Away,3,,Detroit LionsMinnesota Vikings,Green Bay PackersDetroit Lions,-6
+Cleveland Browns,Pittsburgh Steelers,21,18,18,21,358,394,394,358,Home,-10.5,,Cleveland BrownsPittsburgh Steelers,Indianapolis ColtsMinnesota Vikings,-3
+Cincinnati Bengals,Baltimore Ravens,10,24,24,10,195,525,525,195,Away,13.5,,Cincinnati BengalsBaltimore Ravens,Miami DolphinsBuffalo Bills,5.5
+Chicago Bears,Green Bay Packers,21,17,17,21,356,316,316,356,Away,4.5,,Chicago BearsGreen Bay Packers,New York JetsSan Francisco 49ers,7
+Carolina Panthers,New Orleans Saints,17,20,20,17,320,347,347,320,Away,6,,Carolina PanthersNew Orleans Saints,Philadelphia EaglesLos Angeles Rams,-1.5
+San Francisco 49ers,Seattle Seahawks,17,21,21,17,328,280,280,328,Away,7,,San Francisco 49ersSeattle Seahawks,Pittsburgh SteelersDenver Broncos,-6.5
+Los Angeles Rams,Arizona Cardinals,21,15,15,21,333,214,214,333,Home,-1,,Los Angeles RamsArizona Cardinals,Tampa Bay BuccaneersCarolina Panthers,-8
+Kansas City Chiefs,Los Angeles Chargers,18,29,29,18,268,416,416,268,Away,6.5,,Kansas City ChiefsLos Angeles Chargers,Tennessee TitansJacksonville Jaguars,-7.5
+Houston Texans,Tennessee Titans,26,28,28,26,457,492,492,457,Away,7,,Houston TexansTennessee Titans,Cleveland BrownsCincinnati Bengals,-6
+Denver Broncos,Las Vegas Raiders,24,22,22,24,446,465,465,446,Away,2.5,,Denver BroncosLas Vegas Raiders,Denver BroncosTennessee Titans,3
+Indianapolis Colts,Jacksonville Jaguars,23,18,18,23,437,283,283,437,Home,-15.5,,Indianapolis ColtsJacksonville Jaguars,New York GiantsPittsburgh Steelers,5.5
+Philadelphia Eagles,Washington Football Team,16,16,16,16,216,248,248,216,Away,6.5,,Philadelphia EaglesWashington Football Team,Los Angeles RamsDallas Cowboys,2
+Buffalo Bills,Indianapolis Colts,22,27,27,22,397,472,472,397,Home,-7,,Buffalo BillsIndianapolis Colts,New Orleans SaintsTampa Bay Buccaneers,-3.5
+Seattle Seahawks,Los Angeles Rams,11,16,16,11,278,333,333,278,Away,-3,,Seattle SeahawksLos Angeles Rams,San Francisco 49ersArizona Cardinals,-6.5
+Washington Football Team,Tampa Bay Buccaneers,23,26,26,23,375,507,507,375,Away,10,,Washington Football TeamTampa Bay Buccaneers,Cincinnati BengalsLos Angeles Chargers,3
+Tennessee Titans,Baltimore Ravens,12,22,22,12,209,401,401,209,Away,3.5,,Tennessee TitansBaltimore Ravens,Atlanta FalconsSeattle Seahawks,1
+New Orleans Saints,Chicago Bears,27,11,11,27,385,239,239,385,Home,-11,,New Orleans SaintsChicago Bears,Baltimore RavensCleveland Browns,-7
+Pittsburgh Steelers,Cleveland Browns,34,20,20,34,553,390,390,553,Away,-5.5,,Pittsburgh SteelersCleveland Browns,Buffalo BillsNew York Jets,-6.5
+Green Bay Packers,Los Angeles Rams,28,17,17,28,484,244,244,484,Home,-7,,Green Bay PackersLos Angeles Rams,Carolina PanthersLas Vegas Raiders,3
+Buffalo Bills,Baltimore Ravens,17,19,19,17,220,340,340,220,Home,-2.5,,Buffalo BillsBaltimore Ravens,Detroit LionsChicago Bears,-2.5
+Kansas City Chiefs,Cleveland Browns,24,21,21,24,438,308,308,438,Home,-8,,Kansas City ChiefsCleveland Browns,Jacksonville JaguarsIndianapolis Colts,8
+New Orleans Saints,Tampa Bay Buccaneers,20,20,20,20,294,316,316,294,Away,-2.5,,New Orleans SaintsTampa Bay Buccaneers,Minnesota VikingsGreen Bay Packers,-2.5
+Green Bay Packers,Tampa Bay Buccaneers,23,19,19,23,381,351,351,381,Away,-3,,Green Bay PackersTampa Bay Buccaneers,New England PatriotsMiami Dolphins,-7
+Kansas City Chiefs,Buffalo Bills,29,24,24,29,439,363,363,439,Home,-3,,Kansas City ChiefsBuffalo Bills,Washington Football TeamPhiladelphia Eagles,5
+Tampa Bay Buccaneers,Kansas City Chiefs,22,26,26,22,350,340,340,350,Away,3.5,,Tampa Bay BuccaneersKansas City Chiefs,Kansas City ChiefsHouston Texans,-9

@@ -1,0 +1,270 @@
+Home_Team,Away_Team,StrConcat1,Home_Odds,Away_Odds,,,,Home Team,Away Team,StrConcat2,Home Odds Close,Away Odds Close
+Kansas City Chiefs,Houston Texans,Kansas City ChiefsHouston Texans,1.23,4.25,,,,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay BuccaneersKansas City Chiefs,2.40,1.62
+Buffalo Bills,New York Jets,Buffalo BillsNew York Jets,1.33,3.4,,,,Kansas City Chiefs,Buffalo Bills,Kansas City ChiefsBuffalo Bills,1.64,2.35
+Atlanta Falcons,Seattle Seahawks,Atlanta FalconsSeattle Seahawks,2,1.83,,,,Green Bay Packers,Tampa Bay Buccaneers,Green Bay PackersTampa Bay Buccaneers,1.57,2.55
+Washington Football Team,Philadelphia Eagles,Washington Football TeamPhiladelphia Eagles,2.95,1.42,,,,New Orleans Saints,Tampa Bay Buccaneers,New Orleans SaintsTampa Bay Buccaneers,1.68,2.25
+Baltimore Ravens,Cleveland Browns,Baltimore RavensCleveland Browns,1.29,3.7,,,,Kansas City Chiefs,Cleveland Browns,Kansas City ChiefsCleveland Browns,1.25,4.20
+New England Patriots,Miami Dolphins,New England PatriotsMiami Dolphins,1.31,3.6,,,,Buffalo Bills,Baltimore Ravens,Buffalo BillsBaltimore Ravens,1.71,2.20
+Minnesota Vikings,Green Bay Packers,Minnesota VikingsGreen Bay Packers,1.71,2.2,,,,Green Bay Packers,Los Angeles Rams,Green Bay PackersLos Angeles Rams,1.27,3.90
+Jacksonville Jaguars,Indianapolis Colts,Jacksonville JaguarsIndianapolis Colts,4.25,1.23,,,,Pittsburgh Steelers,Cleveland Browns,Pittsburgh SteelersCleveland Browns,1.40,3.10
+Detroit Lions,Chicago Bears,Detroit LionsChicago Bears,1.71,2.2,,,,New Orleans Saints,Chicago Bears,New Orleans SaintsChicago Bears,1.16,5.50
+Carolina Panthers,Las Vegas Raiders,Carolina PanthersLas Vegas Raiders,2.3,1.66,,,,Tennessee Titans,Baltimore Ravens,Tennessee TitansBaltimore Ravens,2.60,1.55
+Cincinnati Bengals,Los Angeles Chargers,Cincinnati BengalsLos Angeles Chargers,2.3,1.66,,,,Washington Football Team,Tampa Bay Buccaneers,Washington Football TeamTampa Bay Buccaneers,4.75,1.20
+San Francisco 49ers,Arizona Cardinals,San Francisco 49ersArizona Cardinals,1.33,3.4,,,,Seattle Seahawks,Los Angeles Rams,Seattle SeahawksLos Angeles Rams,1.57,2.55
+New Orleans Saints,Tampa Bay Buccaneers,New Orleans SaintsTampa Bay Buccaneers,1.68,2.25,,,,Buffalo Bills,Indianapolis Colts,Buffalo BillsIndianapolis Colts,1.29,3.70
+Los Angeles Rams,Dallas Cowboys,Los Angeles RamsDallas Cowboys,2.15,1.74,,,,Philadelphia Eagles,Washington Football Team,Philadelphia EaglesWashington Football Team,3.30,1.35
+New York Giants,Pittsburgh Steelers,New York GiantsPittsburgh Steelers,3.1,1.4,,,,Chicago Bears,Green Bay Packers,Chicago BearsGreen Bay Packers,2.80,1.45
+Denver Broncos,Tennessee Titans,Denver BroncosTennessee Titans,2.4,1.62,,,,Denver Broncos,Las Vegas Raiders,Denver BroncosLas Vegas Raiders,2.25,1.68
+Cleveland Browns,Cincinnati Bengals,Cleveland BrownsCincinnati Bengals,1.38,3.15,,,,Kansas City Chiefs,Los Angeles Chargers,Kansas City ChiefsLos Angeles Chargers,3.40,1.33
+Indianapolis Colts,Minnesota Vikings,Indianapolis ColtsMinnesota Vikings,1.58,2.5,,,,Los Angeles Rams,Arizona Cardinals,Los Angeles RamsArizona Cardinals,1.83,2.00
+Chicago Bears,New York Giants,Chicago BearsNew York Giants,1.4,3.05,,,,San Francisco 49ers,Seattle Seahawks,San Francisco 49ersSeattle Seahawks,3.80,1.27
+Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay BuccaneersCarolina Panthers,1.27,3.9,,,,Buffalo Bills,Miami Dolphins,Buffalo BillsMiami Dolphins,2.45,1.60
+Pittsburgh Steelers,Denver Broncos,Pittsburgh SteelersDenver Broncos,1.32,3.45,,,,Carolina Panthers,New Orleans Saints,Carolina PanthersNew Orleans Saints,3.15,1.38
+Philadelphia Eagles,Los Angeles Rams,Philadelphia EaglesLos Angeles Rams,1.8,2.05,,,,Cincinnati Bengals,Baltimore Ravens,Cincinnati BengalsBaltimore Ravens,7.50,1.10
+Tennessee Titans,Jacksonville Jaguars,Tennessee TitansJacksonville Jaguars,1.27,3.8,,,,Cleveland Browns,Pittsburgh Steelers,Cleveland BrownsPittsburgh Steelers,1.20,4.75
+New York Jets,San Francisco 49ers,New York JetsSan Francisco 49ers,3.6,1.31,,,,Detroit Lions,Minnesota Vikings,Detroit LionsMinnesota Vikings,2.55,1.57
+Miami Dolphins,Buffalo Bills,Miami DolphinsBuffalo Bills,3,1.41,,,,Houston Texans,Tennessee Titans,Houston TexansTennessee Titans,3.70,1.29
+Green Bay Packers,Detroit Lions,Green Bay PackersDetroit Lions,1.37,3.2,,,,Indianapolis Colts,Jacksonville Jaguars,Indianapolis ColtsJacksonville Jaguars,1.07,9.00
+Dallas Cowboys,Atlanta Falcons,Dallas CowboysAtlanta Falcons,1.54,2.65,,,,New England Patriots,New York Jets,New England PatriotsNew York Jets,1.60,2.45
+Arizona Cardinals,Washington Football Team,Arizona CardinalsWashington Football Team,1.32,3.5,,,,New York Giants,Dallas Cowboys,New York GiantsDallas Cowboys,2.05,1.80
+Los Angeles Chargers,Kansas City Chiefs,Los Angeles ChargersKansas City Chiefs,4.2,1.25,,,,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay BuccaneersAtlanta Falcons,1.29,3.70
+Houston Texans,Baltimore Ravens,Houston TexansBaltimore Ravens,3.7,1.29,,,,New England Patriots,Buffalo Bills,New England PatriotsBuffalo Bills,3.90,1.27
+Seattle Seahawks,New England Patriots,Seattle SeahawksNew England Patriots,1.5,2.7,,,,Green Bay Packers,Tennessee Titans,Green Bay PackersTennessee Titans,1.55,2.60
+Las Vegas Raiders,New Orleans Saints,Las Vegas RaidersNew Orleans Saints,2.95,1.42,,,,Dallas Cowboys,Philadelphia Eagles,Dallas CowboysPhiladelphia Eagles,2.50,1.58
+Jacksonville Jaguars,Miami Dolphins,Jacksonville JaguarsMiami Dolphins,1.64,2.35,,,,Los Angeles Chargers,Denver Broncos,Los Angeles ChargersDenver Broncos,1.80,2.05
+Buffalo Bills,Los Angeles Rams,Buffalo BillsLos Angeles Rams,1.76,2.1,,,,Seattle Seahawks,Los Angeles Rams,Seattle SeahawksLos Angeles Rams,1.80,2.05
+Atlanta Falcons,Chicago Bears,Atlanta FalconsChicago Bears,1.64,2.35,,,,Baltimore Ravens,New York Giants,Baltimore RavensNew York Giants,1.22,4.50
+Pittsburgh Steelers,Houston Texans,Pittsburgh SteelersHouston Texans,1.47,2.75,,,,Houston Texans,Cincinnati Bengals,Houston TexansCincinnati Bengals,1.28,3.75
+Philadelphia Eagles,Cincinnati Bengals,Philadelphia EaglesCincinnati Bengals,1.5,2.7,,,,Jacksonville Jaguars,Chicago Bears,Jacksonville JaguarsChicago Bears,4.75,1.20
+New York Giants,San Francisco 49ers,New York GiantsSan Francisco 49ers,2.5,1.58,,,,Kansas City Chiefs,Atlanta Falcons,Kansas City ChiefsAtlanta Falcons,1.18,5.25
+New England Patriots,Las Vegas Raiders,New England PatriotsLas Vegas Raiders,1.37,3.2,,,,New York Jets,Cleveland Browns,New York JetsCleveland Browns,3.40,1.33
+Minnesota Vikings,Tennessee Titans,Minnesota VikingsTennessee Titans,2.2,1.71,,,,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh SteelersIndianapolis Colts,1.95,1.86
+Cleveland Browns,Washington Football Team,Cleveland BrownsWashington Football Team,1.31,3.6,,,,Washington Football Team,Carolina Panthers,Washington Football TeamCarolina Panthers,2.00,1.83
+Los Angeles Chargers,Carolina Panthers,Los Angeles ChargersCarolina Panthers,1.35,3.3,,,,Las Vegas Raiders,Miami Dolphins,Las Vegas RaidersMiami Dolphins,2.20,1.71
+Indianapolis Colts,New York Jets,Indianapolis ColtsNew York Jets,1.16,5.5,,,,Arizona Cardinals,San Francisco 49ers,Arizona CardinalsSan Francisco 49ers,1.35,3.30
+Seattle Seahawks,Dallas Cowboys,Seattle SeahawksDallas Cowboys,1.44,2.85,,,,Detroit Lions,Tampa Bay Buccaneers,Detroit LionsTampa Bay Buccaneers,5.75,1.15
+Denver Broncos,Tampa Bay Buccaneers,Denver BroncosTampa Bay Buccaneers,3.15,1.38,,,,New Orleans Saints,Minnesota Vikings,New Orleans SaintsMinnesota Vikings,1.32,3.45
+Arizona Cardinals,Detroit Lions,Arizona CardinalsDetroit Lions,1.4,3.1,,,,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati BengalsPittsburgh Steelers,8.00,1.09
+New Orleans Saints,Green Bay Packers,New Orleans SaintsGreen Bay Packers,1.6,2.45,,,,New York Giants,Cleveland Browns,New York GiantsCleveland Browns,3.30,1.35
+Baltimore Ravens,Kansas City Chiefs,Baltimore RavensKansas City Chiefs,1.58,2.5,,,,New Orleans Saints,Kansas City Chiefs,New Orleans SaintsKansas City Chiefs,2.30,1.66
+New York Jets,Denver Broncos,New York JetsDenver Broncos,1.8,2.05,,,,Arizona Cardinals,Philadelphia Eagles,Arizona CardinalsPhiladelphia Eagles,1.37,3.20
+Chicago Bears,Indianapolis Colts,Chicago BearsIndianapolis Colts,2.3,1.66,,,,Los Angeles Rams,New York Jets,Los Angeles RamsNew York Jets,1.05,12.00
+Carolina Panthers,Arizona Cardinals,Carolina PanthersArizona Cardinals,2.4,1.62,,,,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta FalconsTampa Bay Buccaneers,3.20,1.37
+Washington Football Team,Baltimore Ravens,Washington Football TeamBaltimore Ravens,8,1.09,,,,Baltimore Ravens,Jacksonville Jaguars,Baltimore RavensJacksonville Jaguars,1.11,7.00
+Tampa Bay Buccaneers,Los Angeles Chargers,Tampa Bay BuccaneersLos Angeles Chargers,1.29,3.7,,,,Dallas Cowboys,San Francisco 49ers,Dallas CowboysSan Francisco 49ers,2.70,1.50
+Miami Dolphins,Seattle Seahawks,Miami DolphinsSeattle Seahawks,3,1.41,,,,Indianapolis Colts,Houston Texans,Indianapolis ColtsHouston Texans,1.26,4.00
+Houston Texans,Minnesota Vikings,Houston TexansMinnesota Vikings,1.54,2.65,,,,Miami Dolphins,New England Patriots,Miami DolphinsNew England Patriots,2.05,1.80
+Detroit Lions,New Orleans Saints,Detroit LionsNew Orleans Saints,2.45,1.6,,,,Minnesota Vikings,Chicago Bears,Minnesota VikingsChicago Bears,1.66,2.30
+Dallas Cowboys,Cleveland Browns,Dallas CowboysCleveland Browns,1.54,2.65,,,,Tennessee Titans,Detroit Lions,Tennessee TitansDetroit Lions,1.25,4.20
+Cincinnati Bengals,Jacksonville Jaguars,Cincinnati BengalsJacksonville Jaguars,1.74,2.15,,,,Washington Football Team,Seattle Seahawks,Washington Football TeamSeattle Seahawks,3.20,1.37
+Los Angeles Rams,New York Giants,Los Angeles RamsNew York Giants,1.11,7,,,,Green Bay Packers,Carolina Panthers,Green Bay PackersCarolina Panthers,1.22,4.50
+Las Vegas Raiders,Buffalo Bills,Las Vegas RaidersBuffalo Bills,2.55,1.57,,,,Denver Broncos,Buffalo Bills,Denver BroncosBuffalo Bills,3.20,1.37
+San Francisco 49ers,Philadelphia Eagles,San Francisco 49ersPhiladelphia Eagles,1.28,3.75,,,,Las Vegas Raiders,Los Angeles Chargers,Las Vegas RaidersLos Angeles Chargers,1.57,2.55
+Kansas City Chiefs,New England Patriots,Kansas City ChiefsNew England Patriots,1.32,3.5,,,,Cleveland Browns,Baltimore Ravens,Cleveland BrownsBaltimore Ravens,2.50,1.58
+Green Bay Packers,Atlanta Falcons,Green Bay PackersAtlanta Falcons,1.31,3.6,,,,Buffalo Bills,Pittsburgh Steelers,Buffalo BillsPittsburgh Steelers,1.76,2.10
+Chicago Bears,Tampa Bay Buccaneers,Chicago BearsTampa Bay Buccaneers,2.65,1.54,,,,Los Angeles Chargers,Atlanta Falcons,Los Angeles ChargersAtlanta Falcons,1.86,1.95
+Atlanta Falcons,Carolina Panthers,Atlanta FalconsCarolina Panthers,1.71,2.2,,,,Philadelphia Eagles,New Orleans Saints,Philadelphia EaglesNew Orleans Saints,3.90,1.27
+Washington Football Team,Los Angeles Rams,Washington Football TeamLos Angeles Rams,3.9,1.27,,,,San Francisco 49ers,Washington Football Team,San Francisco 49ersWashington Football Team,1.66,2.30
+Baltimore Ravens,Cincinnati Bengals,Baltimore RavensCincinnati Bengals,1.13,6.25,,,,Las Vegas Raiders,Indianapolis Colts,Las Vegas RaidersIndianapolis Colts,2.15,1.74
+Pittsburgh Steelers,Philadelphia Eagles,Pittsburgh SteelersPhiladelphia Eagles,1.28,3.75,,,,Seattle Seahawks,New York Jets,Seattle SeahawksNew York Jets,1.08,8.50
+New York Jets,Arizona Cardinals,New York JetsArizona Cardinals,3.7,1.29,,,,Carolina Panthers,Denver Broncos,Carolina PanthersDenver Broncos,1.47,2.75
+Kansas City Chiefs,Las Vegas Raiders,Kansas City ChiefsLas Vegas Raiders,1.16,5.5,,,,Chicago Bears,Houston Texans,Chicago BearsHouston Texans,1.95,1.86
+Houston Texans,Jacksonville Jaguars,Houston TexansJacksonville Jaguars,1.4,3.05,,,,Cincinnati Bengals,Dallas Cowboys,Cincinnati BengalsDallas Cowboys,2.45,1.60
+San Francisco 49ers,Miami Dolphins,San Francisco 49ersMiami Dolphins,1.26,4,,,,Detroit Lions,Green Bay Packers,Detroit LionsGreen Bay Packers,4.25,1.23
+Cleveland Browns,Indianapolis Colts,Cleveland BrownsIndianapolis Colts,1.9,1.9,,,,Jacksonville Jaguars,Tennessee Titans,Jacksonville JaguarsTennessee Titans,4.00,1.26
+Dallas Cowboys,New York Giants,Dallas CowboysNew York Giants,1.25,4.2,,,,Miami Dolphins,Kansas City Chiefs,Miami DolphinsKansas City Chiefs,3.80,1.27
+Seattle Seahawks,Minnesota Vikings,Seattle SeahawksMinnesota Vikings,1.31,3.6,,,,New York Giants,Arizona Cardinals,New York GiantsArizona Cardinals,2.40,1.62
+New Orleans Saints,Los Angeles Chargers,New Orleans SaintsLos Angeles Chargers,1.3,3.65,,,,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay BuccaneersMinnesota Vikings,1.31,3.55
+Tennessee Titans,Buffalo Bills,Tennessee TitansBuffalo Bills,2.6,1.55,,,,Los Angeles Rams,New England Patriots,Los Angeles RamsNew England Patriots,1.42,2.95
+Jacksonville Jaguars,Detroit Lions,Jacksonville JaguarsDetroit Lions,2.4,1.62,,,,Baltimore Ravens,Dallas Cowboys,Baltimore RavensDallas Cowboys,1.23,4.25
+Indianapolis Colts,Cincinnati Bengals,Indianapolis ColtsCincinnati Bengals,1.27,3.9,,,,San Francisco 49ers,Buffalo Bills,San Francisco 49ersBuffalo Bills,1.80,2.05
+Carolina Panthers,Chicago Bears,Carolina PanthersChicago Bears,1.83,2,,,,Pittsburgh Steelers,Washington Football Team,Pittsburgh SteelersWashington Football Team,1.34,3.35
+Pittsburgh Steelers,Cleveland Browns,Pittsburgh SteelersCleveland Browns,1.4,3.1,,,,Kansas City Chiefs,Denver Broncos,Kansas City ChiefsDenver Broncos,1.11,7.00
+Philadelphia Eagles,Baltimore Ravens,Philadelphia EaglesBaltimore Ravens,4.5,1.22,,,,Green Bay Packers,Philadelphia Eagles,Green Bay PackersPhiladelphia Eagles,1.25,4.20
+Tennessee Titans,Houston Texans,Tennessee TitansHouston Texans,1.5,2.7,,,,Los Angeles Chargers,New England Patriots,Los Angeles ChargersNew England Patriots,1.74,2.15
+New York Giants,Washington Football Team,New York GiantsWashington Football Team,1.68,2.25,,,,Arizona Cardinals,Los Angeles Rams,Arizona CardinalsLos Angeles Rams,2.30,1.66
+New England Patriots,Denver Broncos,New England PatriotsDenver Broncos,1.25,4.1,,,,Seattle Seahawks,New York Giants,Seattle SeahawksNew York Giants,1.16,5.50
+Minnesota Vikings,Atlanta Falcons,Minnesota VikingsAtlanta Falcons,1.5,2.7,,,,Atlanta Falcons,New Orleans Saints,Atlanta FalconsNew Orleans Saints,2.30,1.66
+Miami Dolphins,New York Jets,Miami DolphinsNew York Jets,1.25,4.2,,,,Chicago Bears,Detroit Lions,Chicago BearsDetroit Lions,1.64,2.35
+Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay BuccaneersGreen Bay Packers,2,1.83,,,,Houston Texans,Indianapolis Colts,Houston TexansIndianapolis Colts,2.65,1.54
+San Francisco 49ers,Los Angeles Rams,San Francisco 49ersLos Angeles Rams,2.3,1.66,,,,Miami Dolphins,Cincinnati Bengals,Miami DolphinsCincinnati Bengals,1.19,5.00
+Buffalo Bills,Kansas City Chiefs,Buffalo BillsKansas City Chiefs,2.95,1.42,,,,Minnesota Vikings,Jacksonville Jaguars,Minnesota VikingsJacksonville Jaguars,1.20,4.75
+Dallas Cowboys,Arizona Cardinals,Dallas CowboysArizona Cardinals,1.86,1.95,,,,New York Jets,Las Vegas Raiders,New York JetsLas Vegas Raiders,4.00,1.26
+Philadelphia Eagles,New York Giants,Philadelphia EaglesNew York Giants,1.44,2.85,,,,Tennessee Titans,Cleveland Browns,Tennessee TitansCleveland Browns,1.50,2.70
+Cincinnati Bengals,Cleveland Browns,Cincinnati BengalsCleveland Browns,2.55,1.57,,,,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh SteelersBaltimore Ravens,1.41,3.00
+Atlanta Falcons,Detroit Lions,Atlanta FalconsDetroit Lions,1.8,2.05,,,,Philadelphia Eagles,Seattle Seahawks,Philadelphia EaglesSeattle Seahawks,3.45,1.32
+Washington Football Team,Dallas Cowboys,Washington Football TeamDallas Cowboys,1.83,2,,,,Green Bay Packers,Chicago Bears,Green Bay PackersChicago Bears,1.23,4.25
+Tennessee Titans,Pittsburgh Steelers,Tennessee TitansPittsburgh Steelers,1.8,2.05,,,,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay BuccaneersKansas City Chiefs,2.65,1.54
+New York Jets,Buffalo Bills,New York JetsBuffalo Bills,5.25,1.18,,,,Denver Broncos,New Orleans Saints,Denver BroncosNew Orleans Saints,8.50,1.08
+New Orleans Saints,Carolina Panthers,New Orleans SaintsCarolina Panthers,1.33,3.4,,,,Los Angeles Rams,San Francisco 49ers,Los Angeles RamsSan Francisco 49ers,1.34,3.35
+Houston Texans,Green Bay Packers,Houston TexansGreen Bay Packers,2.55,1.57,,,,Atlanta Falcons,Las Vegas Raiders,Atlanta FalconsLas Vegas Raiders,2.50,1.58
+Las Vegas Raiders,Tampa Bay Buccaneers,Las Vegas RaidersTampa Bay Buccaneers,2.65,1.54,,,,Buffalo Bills,Los Angeles Chargers,Buffalo BillsLos Angeles Chargers,1.45,2.80
+Los Angeles Chargers,Jacksonville Jaguars,Los Angeles ChargersJacksonville Jaguars,1.26,4,,,,Cincinnati Bengals,New York Giants,Cincinnati BengalsNew York Giants,3.25,1.36
+New England Patriots,San Francisco 49ers,New England PatriotsSan Francisco 49ers,1.6,2.45,,,,Indianapolis Colts,Tennessee Titans,Indianapolis ColtsTennessee Titans,1.62,2.40
+Denver Broncos,Kansas City Chiefs,Denver BroncosKansas City Chiefs,3.7,1.29,,,,Jacksonville Jaguars,Cleveland Browns,Jacksonville JaguarsCleveland Browns,3.60,1.31
+Arizona Cardinals,Seattle Seahawks,Arizona CardinalsSeattle Seahawks,2.55,1.57,,,,Minnesota Vikings,Carolina Panthers,Minnesota VikingsCarolina Panthers,1.62,2.40
+Los Angeles Rams,Chicago Bears,Los Angeles RamsChicago Bears,1.38,3.15,,,,New England Patriots,Arizona Cardinals,New England PatriotsArizona Cardinals,2.10,1.76
+Carolina Panthers,Atlanta Falcons,Carolina PanthersAtlanta Falcons,1.74,2.15,,,,New York Jets,Miami Dolphins,New York JetsMiami Dolphins,3.55,1.31
+Buffalo Bills,New England Patriots,Buffalo BillsNew England Patriots,1.45,2.8,,,,Dallas Cowboys,Washington Football Team,Dallas CowboysWashington Football Team,1.66,2.30
+Baltimore Ravens,Pittsburgh Steelers,Baltimore RavensPittsburgh Steelers,1.5,2.7,,,,Detroit Lions,Houston Texans,Detroit LionsHouston Texans,2.50,1.58
+Miami Dolphins,Los Angeles Rams,Miami DolphinsLos Angeles Rams,2.55,1.57,,,,Tampa Bay Buccaneers,Los Angeles Rams,Tampa Bay BuccaneersLos Angeles Rams,1.47,2.75
+Kansas City Chiefs,New York Jets,Kansas City ChiefsNew York Jets,1.04,13.5,,,,Las Vegas Raiders,Kansas City Chiefs,Las Vegas RaidersKansas City Chiefs,3.80,1.27
+Green Bay Packers,Minnesota Vikings,Green Bay PackersMinnesota Vikings,1.35,3.3,,,,Indianapolis Colts,Green Bay Packers,Indianapolis ColtsGreen Bay Packers,1.80,2.05
+Detroit Lions,Indianapolis Colts,Detroit LionsIndianapolis Colts,2.3,1.66,,,,Minnesota Vikings,Dallas Cowboys,Minnesota VikingsDallas Cowboys,1.30,3.65
+Cleveland Browns,Las Vegas Raiders,Cleveland BrownsLas Vegas Raiders,1.8,2.05,,,,Denver Broncos,Miami Dolphins,Denver BroncosMiami Dolphins,2.60,1.55
+Cincinnati Bengals,Tennessee Titans,Cincinnati BengalsTennessee Titans,3.7,1.29,,,,Los Angeles Chargers,New York Jets,Los Angeles ChargersNew York Jets,1.22,4.50
+Denver Broncos,Los Angeles Chargers,Denver BroncosLos Angeles Chargers,2.6,1.55,,,,Baltimore Ravens,Tennessee Titans,Baltimore RavensTennessee Titans,1.37,3.20
+Chicago Bears,New Orleans Saints,Chicago BearsNew Orleans Saints,2.8,1.45,,,,Carolina Panthers,Detroit Lions,Carolina PanthersDetroit Lions,2.05,1.80
+Seattle Seahawks,San Francisco 49ers,Seattle SeahawksSan Francisco 49ers,1.64,2.35,,,,Cleveland Browns,Philadelphia Eagles,Cleveland BrownsPhiladelphia Eagles,1.71,2.20
+Philadelphia Eagles,Dallas Cowboys,Philadelphia EaglesDallas Cowboys,1.19,5,,,,Houston Texans,New England Patriots,Houston TexansNew England Patriots,2.15,1.74
+New York Giants,Tampa Bay Buccaneers,New York GiantsTampa Bay Buccaneers,6,1.14,,,,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville JaguarsPittsburgh Steelers,5.00,1.19
+San Francisco 49ers,Green Bay Packers,San Francisco 49ersGreen Bay Packers,3.9,1.27,,,,New Orleans Saints,Atlanta Falcons,New Orleans SaintsAtlanta Falcons,1.52,2.67
+Buffalo Bills,Seattle Seahawks,Buffalo BillsSeattle Seahawks,2.35,1.64,,,,Washington Football Team,Cincinnati Bengals,Washington Football TeamCincinnati Bengals,1.83,2.00
+Atlanta Falcons,Denver Broncos,Atlanta FalconsDenver Broncos,1.5,2.7,,,,Seattle Seahawks,Arizona Cardinals,Seattle SeahawksArizona Cardinals,1.62,2.40
+Washington Football Team,New York Giants,Washington Football TeamNew York Giants,1.66,2.3,,,,Chicago Bears,Minnesota Vikings,Chicago BearsMinnesota Vikings,2.55,1.57
+Tennessee Titans,Chicago Bears,Tennessee TitansChicago Bears,1.34,3.35,,,,New England Patriots,Baltimore Ravens,New England PatriotsBaltimore Ravens,3.65,1.30
+Minnesota Vikings,Detroit Lions,Minnesota VikingsDetroit Lions,1.5,2.7,,,,Los Angeles Rams,Seattle Seahawks,Los Angeles RamsSeattle Seahawks,1.68,2.25
+Kansas City Chiefs,Carolina Panthers,Kansas City ChiefsCarolina Panthers,1.2,4.75,,,,New Orleans Saints,San Francisco 49ers,New Orleans SaintsSan Francisco 49ers,1.23,4.25
+Jacksonville Jaguars,Houston Texans,Jacksonville JaguarsHouston Texans,3.5,1.32,,,,Arizona Cardinals,Buffalo Bills,Arizona CardinalsBuffalo Bills,1.71,2.20
+Indianapolis Colts,Baltimore Ravens,Indianapolis ColtsBaltimore Ravens,2,1.83,,,,Las Vegas Raiders,Denver Broncos,Las Vegas RaidersDenver Broncos,1.52,2.67
+Los Angeles Chargers,Las Vegas Raiders,Los Angeles ChargersLas Vegas Raiders,1.9,1.9,,,,Miami Dolphins,Los Angeles Chargers,Miami DolphinsLos Angeles Chargers,1.80,2.05
+Dallas Cowboys,Pittsburgh Steelers,Dallas CowboysPittsburgh Steelers,8,1.09,,,,Carolina Panthers,Tampa Bay Buccaneers,Carolina PanthersTampa Bay Buccaneers,3.20,1.37
+Arizona Cardinals,Miami Dolphins,Arizona CardinalsMiami Dolphins,1.41,3,,,,Cleveland Browns,Houston Texans,Cleveland BrownsHouston Texans,1.50,2.70
+Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay BuccaneersNew Orleans Saints,1.45,2.8,,,,Detroit Lions,Washington Football Team,Detroit LionsWashington Football Team,1.57,2.55
+New York Jets,New England Patriots,New York JetsNew England Patriots,4.5,1.22,,,,Green Bay Packers,Jacksonville Jaguars,Green Bay PackersJacksonville Jaguars,1.10,7.50
+Tennessee Titans,Indianapolis Colts,Tennessee TitansIndianapolis Colts,1.9,1.9,,,,New York Giants,Philadelphia Eagles,New York GiantsPhiladelphia Eagles,2.75,1.47
+Cleveland Browns,Houston Texans,Cleveland BrownsHouston Texans,1.5,2.7,,,,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh SteelersCincinnati Bengals,1.31,3.60
+Carolina Panthers,Tampa Bay Buccaneers,Carolina PanthersTampa Bay Buccaneers,3.2,1.37,,,,Tennessee Titans,Indianapolis Colts,Tennessee TitansIndianapolis Colts,1.90,1.90
+New York Giants,Philadelphia Eagles,New York GiantsPhiladelphia Eagles,2.75,1.47,,,,New York Jets,New England Patriots,New York JetsNew England Patriots,4.50,1.22
+Green Bay Packers,Jacksonville Jaguars,Green Bay PackersJacksonville Jaguars,1.1,7.5,,,,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay BuccaneersNew Orleans Saints,1.45,2.80
+Detroit Lions,Washington Football Team,Detroit LionsWashington Football Team,1.57,2.55,,,,Arizona Cardinals,Miami Dolphins,Arizona CardinalsMiami Dolphins,1.41,3.00
+Las Vegas Raiders,Denver Broncos,Las Vegas RaidersDenver Broncos,1.52,2.67,,,,Dallas Cowboys,Pittsburgh Steelers,Dallas CowboysPittsburgh Steelers,8.00,1.09
+Miami Dolphins,Los Angeles Chargers,Miami DolphinsLos Angeles Chargers,1.8,2.05,,,,Los Angeles Chargers,Las Vegas Raiders,Los Angeles ChargersLas Vegas Raiders,1.90,1.90
+Arizona Cardinals,Buffalo Bills,Arizona CardinalsBuffalo Bills,1.71,2.2,,,,Atlanta Falcons,Denver Broncos,Atlanta FalconsDenver Broncos,1.50,2.70
+Los Angeles Rams,Seattle Seahawks,Los Angeles RamsSeattle Seahawks,1.68,2.25,,,,Buffalo Bills,Seattle Seahawks,Buffalo BillsSeattle Seahawks,2.35,1.64
+Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh SteelersCincinnati Bengals,1.31,3.6,,,,Indianapolis Colts,Baltimore Ravens,Indianapolis ColtsBaltimore Ravens,2.00,1.83
+New Orleans Saints,San Francisco 49ers,New Orleans SaintsSan Francisco 49ers,1.23,4.25,,,,Jacksonville Jaguars,Houston Texans,Jacksonville JaguarsHouston Texans,3.50,1.32
+New England Patriots,Baltimore Ravens,New England PatriotsBaltimore Ravens,3.65,1.3,,,,Kansas City Chiefs,Carolina Panthers,Kansas City ChiefsCarolina Panthers,1.20,4.75
+Chicago Bears,Minnesota Vikings,Chicago BearsMinnesota Vikings,2.55,1.57,,,,Minnesota Vikings,Detroit Lions,Minnesota VikingsDetroit Lions,1.50,2.70
+Seattle Seahawks,Arizona Cardinals,Seattle SeahawksArizona Cardinals,1.62,2.4,,,,Tennessee Titans,Chicago Bears,Tennessee TitansChicago Bears,1.34,3.35
+Cleveland Browns,Philadelphia Eagles,Cleveland BrownsPhiladelphia Eagles,1.71,2.2,,,,Washington Football Team,New York Giants,Washington Football TeamNew York Giants,1.66,2.30
+Carolina Panthers,Detroit Lions,Carolina PanthersDetroit Lions,2.05,1.8,,,,San Francisco 49ers,Green Bay Packers,San Francisco 49ersGreen Bay Packers,3.90,1.27
+Washington Football Team,Cincinnati Bengals,Washington Football TeamCincinnati Bengals,1.83,2,,,,New York Giants,Tampa Bay Buccaneers,New York GiantsTampa Bay Buccaneers,6.00,1.14
+Baltimore Ravens,Tennessee Titans,Baltimore RavensTennessee Titans,1.37,3.2,,,,Philadelphia Eagles,Dallas Cowboys,Philadelphia EaglesDallas Cowboys,1.19,5.00
+New Orleans Saints,Atlanta Falcons,New Orleans SaintsAtlanta Falcons,1.52,2.67,,,,Chicago Bears,New Orleans Saints,Chicago BearsNew Orleans Saints,2.80,1.45
+Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville JaguarsPittsburgh Steelers,5,1.19,,,,Seattle Seahawks,San Francisco 49ers,Seattle SeahawksSan Francisco 49ers,1.64,2.35
+Houston Texans,New England Patriots,Houston TexansNew England Patriots,2.15,1.74,,,,Denver Broncos,Los Angeles Chargers,Denver BroncosLos Angeles Chargers,2.60,1.55
+Los Angeles Chargers,New York Jets,Los Angeles ChargersNew York Jets,1.22,4.5,,,,Baltimore Ravens,Pittsburgh Steelers,Baltimore RavensPittsburgh Steelers,1.50,2.70
+Denver Broncos,Miami Dolphins,Denver BroncosMiami Dolphins,2.6,1.55,,,,Buffalo Bills,New England Patriots,Buffalo BillsNew England Patriots,1.45,2.80
+Minnesota Vikings,Dallas Cowboys,Minnesota VikingsDallas Cowboys,1.3,3.65,,,,Cincinnati Bengals,Tennessee Titans,Cincinnati BengalsTennessee Titans,3.70,1.29
+Indianapolis Colts,Green Bay Packers,Indianapolis ColtsGreen Bay Packers,1.8,2.05,,,,Cleveland Browns,Las Vegas Raiders,Cleveland BrownsLas Vegas Raiders,1.80,2.05
+Las Vegas Raiders,Kansas City Chiefs,Las Vegas RaidersKansas City Chiefs,3.8,1.27,,,,Detroit Lions,Indianapolis Colts,Detroit LionsIndianapolis Colts,2.30,1.66
+Tampa Bay Buccaneers,Los Angeles Rams,Tampa Bay BuccaneersLos Angeles Rams,1.47,2.75,,,,Green Bay Packers,Minnesota Vikings,Green Bay PackersMinnesota Vikings,1.35,3.30
+Detroit Lions,Houston Texans,Detroit LionsHouston Texans,2.5,1.58,,,,Kansas City Chiefs,New York Jets,Kansas City ChiefsNew York Jets,1.04,13.50
+Dallas Cowboys,Washington Football Team,Dallas CowboysWashington Football Team,1.66,2.3,,,,Miami Dolphins,Los Angeles Rams,Miami DolphinsLos Angeles Rams,2.55,1.57
+Atlanta Falcons,Las Vegas Raiders,Atlanta FalconsLas Vegas Raiders,2.5,1.58,,,,Carolina Panthers,Atlanta Falcons,Carolina PanthersAtlanta Falcons,1.74,2.15
+New York Jets,Miami Dolphins,New York JetsMiami Dolphins,3.55,1.31,,,,Los Angeles Rams,Chicago Bears,Los Angeles RamsChicago Bears,1.38,3.15
+New England Patriots,Arizona Cardinals,New England PatriotsArizona Cardinals,2.1,1.76,,,,Las Vegas Raiders,Tampa Bay Buccaneers,Las Vegas RaidersTampa Bay Buccaneers,2.65,1.54
+Minnesota Vikings,Carolina Panthers,Minnesota VikingsCarolina Panthers,1.62,2.4,,,,Los Angeles Chargers,Jacksonville Jaguars,Los Angeles ChargersJacksonville Jaguars,1.26,4.00
+Jacksonville Jaguars,Cleveland Browns,Jacksonville JaguarsCleveland Browns,3.6,1.31,,,,Denver Broncos,Kansas City Chiefs,Denver BroncosKansas City Chiefs,3.70,1.29
+Indianapolis Colts,Tennessee Titans,Indianapolis ColtsTennessee Titans,1.62,2.4,,,,New England Patriots,San Francisco 49ers,New England PatriotsSan Francisco 49ers,1.60,2.45
+Cincinnati Bengals,New York Giants,Cincinnati BengalsNew York Giants,3.25,1.36,,,,Arizona Cardinals,Seattle Seahawks,Arizona CardinalsSeattle Seahawks,2.55,1.57
+Buffalo Bills,Los Angeles Chargers,Buffalo BillsLos Angeles Chargers,1.45,2.8,,,,Atlanta Falcons,Detroit Lions,Atlanta FalconsDetroit Lions,1.80,2.05
+Los Angeles Rams,San Francisco 49ers,Los Angeles RamsSan Francisco 49ers,1.34,3.35,,,,Cincinnati Bengals,Cleveland Browns,Cincinnati BengalsCleveland Browns,2.55,1.57
+Denver Broncos,New Orleans Saints,Denver BroncosNew Orleans Saints,8.5,1.08,,,,Houston Texans,Green Bay Packers,Houston TexansGreen Bay Packers,2.55,1.57
+Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay BuccaneersKansas City Chiefs,2.4,1.62,,,,New Orleans Saints,Carolina Panthers,New Orleans SaintsCarolina Panthers,1.33,3.40
+Green Bay Packers,Chicago Bears,Green Bay PackersChicago Bears,1.23,4.25,,,,Tennessee Titans,Pittsburgh Steelers,Tennessee TitansPittsburgh Steelers,1.80,2.05
+Philadelphia Eagles,Seattle Seahawks,Philadelphia EaglesSeattle Seahawks,3.45,1.32,,,,New York Jets,Buffalo Bills,New York JetsBuffalo Bills,5.25,1.18
+Pittsburgh Steelers,Baltimore Ravens,Pittsburgh SteelersBaltimore Ravens,1.41,3,,,,Washington Football Team,Dallas Cowboys,Washington Football TeamDallas Cowboys,1.83,2.00
+Chicago Bears,Detroit Lions,Chicago BearsDetroit Lions,1.64,2.35,,,,Philadelphia Eagles,New York Giants,Philadelphia EaglesNew York Giants,1.44,2.85
+Atlanta Falcons,New Orleans Saints,Atlanta FalconsNew Orleans Saints,2.3,1.66,,,,Dallas Cowboys,Arizona Cardinals,Dallas CowboysArizona Cardinals,1.86,1.95
+Tennessee Titans,Cleveland Browns,Tennessee TitansCleveland Browns,1.5,2.7,,,,Buffalo Bills,Kansas City Chiefs,Buffalo BillsKansas City Chiefs,2.95,1.42
+New York Jets,Las Vegas Raiders,New York JetsLas Vegas Raiders,4,1.26,,,,San Francisco 49ers,Los Angeles Rams,San Francisco 49ersLos Angeles Rams,2.30,1.66
+Minnesota Vikings,Jacksonville Jaguars,Minnesota VikingsJacksonville Jaguars,1.2,4.75,,,,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay BuccaneersGreen Bay Packers,2.00,1.83
+Miami Dolphins,Cincinnati Bengals,Miami DolphinsCincinnati Bengals,1.19,5,,,,Miami Dolphins,New York Jets,Miami DolphinsNew York Jets,1.25,4.20
+Houston Texans,Indianapolis Colts,Houston TexansIndianapolis Colts,2.65,1.54,,,,Carolina Panthers,Chicago Bears,Carolina PanthersChicago Bears,1.83,2.00
+Arizona Cardinals,Los Angeles Rams,Arizona CardinalsLos Angeles Rams,2.3,1.66,,,,Indianapolis Colts,Cincinnati Bengals,Indianapolis ColtsCincinnati Bengals,1.27,3.90
+Seattle Seahawks,New York Giants,Seattle SeahawksNew York Giants,1.16,5.5,,,,Jacksonville Jaguars,Detroit Lions,Jacksonville JaguarsDetroit Lions,2.40,1.62
+Los Angeles Chargers,New England Patriots,Los Angeles ChargersNew England Patriots,1.74,2.15,,,,Minnesota Vikings,Atlanta Falcons,Minnesota VikingsAtlanta Falcons,1.50,2.70
+Green Bay Packers,Philadelphia Eagles,Green Bay PackersPhiladelphia Eagles,1.25,4.2,,,,New England Patriots,Denver Broncos,New England PatriotsDenver Broncos,1.25,4.10
+Kansas City Chiefs,Denver Broncos,Kansas City ChiefsDenver Broncos,1.11,7,,,,New York Giants,Washington Football Team,New York GiantsWashington Football Team,1.68,2.25
+Pittsburgh Steelers,Washington Football Team,Pittsburgh SteelersWashington Football Team,1.34,3.35,,,,Philadelphia Eagles,Baltimore Ravens,Philadelphia EaglesBaltimore Ravens,4.50,1.22
+San Francisco 49ers,Buffalo Bills,San Francisco 49ersBuffalo Bills,1.8,2.05,,,,Pittsburgh Steelers,Cleveland Browns,Pittsburgh SteelersCleveland Browns,1.55,2.60
+Baltimore Ravens,Dallas Cowboys,Baltimore RavensDallas Cowboys,1.23,4.25,,,,Tennessee Titans,Houston Texans,Tennessee TitansHouston Texans,1.50,2.70
+Los Angeles Rams,New England Patriots,Los Angeles RamsNew England Patriots,1.42,2.95,,,,Tennessee Titans,Buffalo Bills,Tennessee TitansBuffalo Bills,2.60,1.55
+Carolina Panthers,Denver Broncos,Carolina PanthersDenver Broncos,1.47,2.75,,,,New Orleans Saints,Los Angeles Chargers,New Orleans SaintsLos Angeles Chargers,1.30,3.65
+Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay BuccaneersMinnesota Vikings,1.31,3.55,,,,Seattle Seahawks,Minnesota Vikings,Seattle SeahawksMinnesota Vikings,1.31,3.60
+New York Giants,Arizona Cardinals,New York GiantsArizona Cardinals,2.4,1.62,,,,Cleveland Browns,Indianapolis Colts,Cleveland BrownsIndianapolis Colts,1.90,1.90
+Miami Dolphins,Kansas City Chiefs,Miami DolphinsKansas City Chiefs,3.8,1.27,,,,Dallas Cowboys,New York Giants,Dallas CowboysNew York Giants,1.25,4.20
+Jacksonville Jaguars,Tennessee Titans,Jacksonville JaguarsTennessee Titans,4,1.26,,,,San Francisco 49ers,Miami Dolphins,San Francisco 49ersMiami Dolphins,1.26,4.00
+Cincinnati Bengals,Dallas Cowboys,Cincinnati BengalsDallas Cowboys,2.45,1.6,,,,Atlanta Falcons,Carolina Panthers,Atlanta FalconsCarolina Panthers,1.71,2.20
+Chicago Bears,Houston Texans,Chicago BearsHouston Texans,1.95,1.86,,,,Baltimore Ravens,Cincinnati Bengals,Baltimore RavensCincinnati Bengals,1.13,6.25
+Seattle Seahawks,New York Jets,Seattle SeahawksNew York Jets,1.08,8.5,,,,Houston Texans,Jacksonville Jaguars,Houston TexansJacksonville Jaguars,1.40,3.05
+Las Vegas Raiders,Indianapolis Colts,Las Vegas RaidersIndianapolis Colts,2.15,1.74,,,,Kansas City Chiefs,Las Vegas Raiders,Kansas City ChiefsLas Vegas Raiders,1.16,5.50
+San Francisco 49ers,Washington Football Team,San Francisco 49ersWashington Football Team,1.66,2.3,,,,New York Jets,Arizona Cardinals,New York JetsArizona Cardinals,3.70,1.29
+Los Angeles Chargers,Atlanta Falcons,Los Angeles ChargersAtlanta Falcons,1.86,1.95,,,,Pittsburgh Steelers,Philadelphia Eagles,Pittsburgh SteelersPhiladelphia Eagles,1.28,3.75
+Philadelphia Eagles,New Orleans Saints,Philadelphia EaglesNew Orleans Saints,3.9,1.27,,,,Washington Football Team,Los Angeles Rams,Washington Football TeamLos Angeles Rams,3.90,1.27
+Detroit Lions,Green Bay Packers,Detroit LionsGreen Bay Packers,4.25,1.23,,,,Chicago Bears,Tampa Bay Buccaneers,Chicago BearsTampa Bay Buccaneers,2.65,1.54
+Buffalo Bills,Pittsburgh Steelers,Buffalo BillsPittsburgh Steelers,1.76,2.1,,,,Green Bay Packers,Atlanta Falcons,Green Bay PackersAtlanta Falcons,1.31,3.60
+Cleveland Browns,Baltimore Ravens,Cleveland BrownsBaltimore Ravens,2.5,1.58,,,,Kansas City Chiefs,New England Patriots,Kansas City ChiefsNew England Patriots,1.32,3.50
+Las Vegas Raiders,Los Angeles Chargers,Las Vegas RaidersLos Angeles Chargers,1.57,2.55,,,,San Francisco 49ers,Philadelphia Eagles,San Francisco 49ersPhiladelphia Eagles,1.28,3.75
+Denver Broncos,Buffalo Bills,Denver BroncosBuffalo Bills,3.2,1.37,,,,Las Vegas Raiders,Buffalo Bills,Las Vegas RaidersBuffalo Bills,2.55,1.57
+Green Bay Packers,Carolina Panthers,Green Bay PackersCarolina Panthers,1.22,4.5,,,,Los Angeles Rams,New York Giants,Los Angeles RamsNew York Giants,1.11,7.00
+Washington Football Team,Seattle Seahawks,Washington Football TeamSeattle Seahawks,3.2,1.37,,,,Carolina Panthers,Arizona Cardinals,Carolina PanthersArizona Cardinals,2.40,1.62
+Baltimore Ravens,Jacksonville Jaguars,Baltimore RavensJacksonville Jaguars,1.11,7,,,,Chicago Bears,Indianapolis Colts,Chicago BearsIndianapolis Colts,2.30,1.66
+Tennessee Titans,Detroit Lions,Tennessee TitansDetroit Lions,1.25,4.2,,,,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati BengalsJacksonville Jaguars,1.74,2.15
+Minnesota Vikings,Chicago Bears,Minnesota VikingsChicago Bears,1.66,2.3,,,,Dallas Cowboys,Cleveland Browns,Dallas CowboysCleveland Browns,1.54,2.65
+Miami Dolphins,New England Patriots,Miami DolphinsNew England Patriots,2.05,1.8,,,,Detroit Lions,New Orleans Saints,Detroit LionsNew Orleans Saints,2.45,1.60
+Dallas Cowboys,San Francisco 49ers,Dallas CowboysSan Francisco 49ers,2.7,1.5,,,,Houston Texans,Minnesota Vikings,Houston TexansMinnesota Vikings,1.54,2.65
+Indianapolis Colts,Houston Texans,Indianapolis ColtsHouston Texans,1.26,4,,,,Miami Dolphins,Seattle Seahawks,Miami DolphinsSeattle Seahawks,3.00,1.41
+Atlanta Falcons,Tampa Bay Buccaneers,Atlanta FalconsTampa Bay Buccaneers,3.2,1.37,,,,Tampa Bay Buccaneers,Los Angeles Chargers,Tampa Bay BuccaneersLos Angeles Chargers,1.29,3.70
+Los Angeles Rams,New York Jets,Los Angeles RamsNew York Jets,1.05,12,,,,Washington Football Team,Baltimore Ravens,Washington Football TeamBaltimore Ravens,8.00,1.09
+Arizona Cardinals,Philadelphia Eagles,Arizona CardinalsPhiladelphia Eagles,1.37,3.2,,,,New York Jets,Denver Broncos,New York JetsDenver Broncos,1.80,2.05
+New Orleans Saints,Kansas City Chiefs,New Orleans SaintsKansas City Chiefs,2.3,1.66,,,,Baltimore Ravens,Kansas City Chiefs,Baltimore RavensKansas City Chiefs,1.58,2.50
+New York Giants,Cleveland Browns,New York GiantsCleveland Browns,3.3,1.35,,,,New Orleans Saints,Green Bay Packers,New Orleans SaintsGreen Bay Packers,1.60,2.45
+Cincinnati Bengals,Pittsburgh Steelers,Cincinnati BengalsPittsburgh Steelers,8,1.09,,,,Arizona Cardinals,Detroit Lions,Arizona CardinalsDetroit Lions,1.40,3.10
+New Orleans Saints,Minnesota Vikings,New Orleans SaintsMinnesota Vikings,1.32,3.45,,,,Denver Broncos,Tampa Bay Buccaneers,Denver BroncosTampa Bay Buccaneers,3.15,1.38
+Detroit Lions,Tampa Bay Buccaneers,Detroit LionsTampa Bay Buccaneers,5.75,1.15,,,,Seattle Seahawks,Dallas Cowboys,Seattle SeahawksDallas Cowboys,1.44,2.85
+Arizona Cardinals,San Francisco 49ers,Arizona CardinalsSan Francisco 49ers,1.35,3.3,,,,Indianapolis Colts,New York Jets,Indianapolis ColtsNew York Jets,1.16,5.50
+Las Vegas Raiders,Miami Dolphins,Las Vegas RaidersMiami Dolphins,2.2,1.71,,,,Los Angeles Chargers,Carolina Panthers,Los Angeles ChargersCarolina Panthers,1.35,3.30
+Baltimore Ravens,New York Giants,Baltimore RavensNew York Giants,1.22,4.5,,,,Atlanta Falcons,Chicago Bears,Atlanta FalconsChicago Bears,1.64,2.35
+Pittsburgh Steelers,Indianapolis Colts,Pittsburgh SteelersIndianapolis Colts,1.95,1.86,,,,Buffalo Bills,Los Angeles Rams,Buffalo BillsLos Angeles Rams,1.76,2.10
+New York Jets,Cleveland Browns,New York JetsCleveland Browns,3.4,1.33,,,,Cleveland Browns,Washington Football Team,Cleveland BrownsWashington Football Team,1.31,3.60
+Kansas City Chiefs,Atlanta Falcons,Kansas City ChiefsAtlanta Falcons,1.18,5.25,,,,Minnesota Vikings,Tennessee Titans,Minnesota VikingsTennessee Titans,2.20,1.71
+Jacksonville Jaguars,Chicago Bears,Jacksonville JaguarsChicago Bears,4.75,1.2,,,,New England Patriots,Las Vegas Raiders,New England PatriotsLas Vegas Raiders,1.37,3.20
+Houston Texans,Cincinnati Bengals,Houston TexansCincinnati Bengals,1.28,3.75,,,,New York Giants,San Francisco 49ers,New York GiantsSan Francisco 49ers,2.50,1.58
+Washington Football Team,Carolina Panthers,Washington Football TeamCarolina Panthers,2,1.83,,,,Philadelphia Eagles,Cincinnati Bengals,Philadelphia EaglesCincinnati Bengals,1.50,2.70
+Los Angeles Chargers,Denver Broncos,Los Angeles ChargersDenver Broncos,1.8,2.05,,,,Pittsburgh Steelers,Houston Texans,Pittsburgh SteelersHouston Texans,1.47,2.75
+Seattle Seahawks,Los Angeles Rams,Seattle SeahawksLos Angeles Rams,1.57,2.55,,,,Jacksonville Jaguars,Miami Dolphins,Jacksonville JaguarsMiami Dolphins,1.64,2.35
+Dallas Cowboys,Philadelphia Eagles,Dallas CowboysPhiladelphia Eagles,2.5,1.58,,,,Las Vegas Raiders,New Orleans Saints,Las Vegas RaidersNew Orleans Saints,2.95,1.42
+Green Bay Packers,Tennessee Titans,Green Bay PackersTennessee Titans,1.55,2.6,,,,Seattle Seahawks,New England Patriots,Seattle SeahawksNew England Patriots,1.50,2.70
+New England Patriots,Buffalo Bills,New England PatriotsBuffalo Bills,3.9,1.27,,,,Houston Texans,Baltimore Ravens,Houston TexansBaltimore Ravens,3.70,1.29
+Buffalo Bills,Miami Dolphins,Buffalo BillsMiami Dolphins,2.45,1.6,,,,Los Angeles Chargers,Kansas City Chiefs,Los Angeles ChargersKansas City Chiefs,4.20,1.25
+Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay BuccaneersAtlanta Falcons,1.29,3.7,,,,Arizona Cardinals,Washington Football Team,Arizona CardinalsWashington Football Team,1.32,3.50
+New York Giants,Dallas Cowboys,New York GiantsDallas Cowboys,2.05,1.8,,,,Chicago Bears,New York Giants,Chicago BearsNew York Giants,1.40,3.05
+New England Patriots,New York Jets,New England PatriotsNew York Jets,1.6,2.45,,,,Dallas Cowboys,Atlanta Falcons,Dallas CowboysAtlanta Falcons,1.54,2.65
+Detroit Lions,Minnesota Vikings,Detroit LionsMinnesota Vikings,2.55,1.57,,,,Green Bay Packers,Detroit Lions,Green Bay PackersDetroit Lions,1.37,3.20
+Cleveland Browns,Pittsburgh Steelers,Cleveland BrownsPittsburgh Steelers,1.2,4.75,,,,Indianapolis Colts,Minnesota Vikings,Indianapolis ColtsMinnesota Vikings,1.58,2.50
+Cincinnati Bengals,Baltimore Ravens,Cincinnati BengalsBaltimore Ravens,7.5,1.1,,,,Miami Dolphins,Buffalo Bills,Miami DolphinsBuffalo Bills,3.00,1.41
+Chicago Bears,Green Bay Packers,Chicago BearsGreen Bay Packers,2.8,1.45,,,,New York Jets,San Francisco 49ers,New York JetsSan Francisco 49ers,3.60,1.31
+Carolina Panthers,New Orleans Saints,Carolina PanthersNew Orleans Saints,3.15,1.38,,,,Philadelphia Eagles,Los Angeles Rams,Philadelphia EaglesLos Angeles Rams,1.80,2.05
+San Francisco 49ers,Seattle Seahawks,San Francisco 49ersSeattle Seahawks,3.8,1.27,,,,Pittsburgh Steelers,Denver Broncos,Pittsburgh SteelersDenver Broncos,1.32,3.45
+Los Angeles Rams,Arizona Cardinals,Los Angeles RamsArizona Cardinals,1.83,2,,,,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay BuccaneersCarolina Panthers,1.27,3.90
+Kansas City Chiefs,Los Angeles Chargers,Kansas City ChiefsLos Angeles Chargers,3.4,1.33,,,,Tennessee Titans,Jacksonville Jaguars,Tennessee TitansJacksonville Jaguars,1.27,3.80
+Houston Texans,Tennessee Titans,Houston TexansTennessee Titans,3.7,1.29,,,,Cleveland Browns,Cincinnati Bengals,Cleveland BrownsCincinnati Bengals,1.38,3.15
+Denver Broncos,Las Vegas Raiders,Denver BroncosLas Vegas Raiders,2.25,1.68,,,,Denver Broncos,Tennessee Titans,Denver BroncosTennessee Titans,2.40,1.62
+Indianapolis Colts,Jacksonville Jaguars,Indianapolis ColtsJacksonville Jaguars,1.07,9,,,,New York Giants,Pittsburgh Steelers,New York GiantsPittsburgh Steelers,3.10,1.40
+Philadelphia Eagles,Washington Football Team,Philadelphia EaglesWashington Football Team,3.3,1.35,,,,Los Angeles Rams,Dallas Cowboys,Los Angeles RamsDallas Cowboys,2.15,1.74
+Buffalo Bills,Indianapolis Colts,Buffalo BillsIndianapolis Colts,1.29,3.7,,,,New Orleans Saints,Tampa Bay Buccaneers,New Orleans SaintsTampa Bay Buccaneers,1.55,2.60
+Seattle Seahawks,Los Angeles Rams,Seattle SeahawksLos Angeles Rams,1.57,2.55,,,,San Francisco 49ers,Arizona Cardinals,San Francisco 49ersArizona Cardinals,1.33,3.40
+Washington Football Team,Tampa Bay Buccaneers,Washington Football TeamTampa Bay Buccaneers,4.75,1.2,,,,Cincinnati Bengals,Los Angeles Chargers,Cincinnati BengalsLos Angeles Chargers,2.30,1.66
+Tennessee Titans,Baltimore Ravens,Tennessee TitansBaltimore Ravens,2.6,1.55,,,,Atlanta Falcons,Seattle Seahawks,Atlanta FalconsSeattle Seahawks,2.00,1.83
+New Orleans Saints,Chicago Bears,New Orleans SaintsChicago Bears,1.16,5.5,,,,Baltimore Ravens,Cleveland Browns,Baltimore RavensCleveland Browns,1.29,3.70
+Pittsburgh Steelers,Cleveland Browns,Pittsburgh SteelersCleveland Browns,1.4,3.1,,,,Buffalo Bills,New York Jets,Buffalo BillsNew York Jets,1.33,3.40
+Green Bay Packers,Los Angeles Rams,Green Bay PackersLos Angeles Rams,1.27,3.9,,,,Carolina Panthers,Las Vegas Raiders,Carolina PanthersLas Vegas Raiders,2.30,1.66
+Buffalo Bills,Baltimore Ravens,Buffalo BillsBaltimore Ravens,1.71,2.2,,,,Detroit Lions,Chicago Bears,Detroit LionsChicago Bears,1.71,2.20
+Kansas City Chiefs,Cleveland Browns,Kansas City ChiefsCleveland Browns,1.25,4.2,,,,Jacksonville Jaguars,Indianapolis Colts,Jacksonville JaguarsIndianapolis Colts,4.25,1.23
+New Orleans Saints,Tampa Bay Buccaneers,New Orleans SaintsTampa Bay Buccaneers,1.68,2.25,,,,Minnesota Vikings,Green Bay Packers,Minnesota VikingsGreen Bay Packers,1.71,2.20
+Green Bay Packers,Tampa Bay Buccaneers,Green Bay PackersTampa Bay Buccaneers,1.57,2.55,,,,New England Patriots,Miami Dolphins,New England PatriotsMiami Dolphins,1.31,3.60
+Kansas City Chiefs,Buffalo Bills,Kansas City ChiefsBuffalo Bills,1.64,2.35,,,,Washington Football Team,Philadelphia Eagles,Washington Football TeamPhiladelphia Eagles,2.95,1.42
+Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay BuccaneersKansas City Chiefs,2.4,1.62,,,,Kansas City Chiefs,Houston Texans,Kansas City ChiefsHouston Texans,1.23,4.25
