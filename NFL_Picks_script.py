@@ -7,8 +7,10 @@ from sklearn.metrics import accuracy_score
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 import warnings
-warnings.filterwarnings("ignore")
 from NFL_Picks_functions import *
+import os
+
+warnings.filterwarnings("ignore")
 
 
 #Reading in data from sportreference. This takes ages so I saved it the data to text files and went from there
@@ -61,8 +63,8 @@ if False:
 
 #2020 stats (test data)
 
-Stats_2020 = pd.read_csv("2020_games.csv")
-Stats_2017 = pd.read_csv("2017-2019_games.csv")  
+Stats_2020 = pd.read_csv("Game data"+os.sep+"2020_games.csv")
+Stats_2017 = pd.read_csv("Game data"+os.sep+"2017-2019_games.csv")  
 
 Stats_2020 = Stats_2020.drop(['Unnamed: 12', 'Concat1', 'Concat2', 'Line.1'],axis=1) #Drop unused columns from csv files
 Stats_2017 = Stats_2017.drop(['Unnamed: 12', 'Concat1', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16'],axis=1)
@@ -162,6 +164,8 @@ for cycle in range(3):
         num_games_H = len(homehome) + len(homeaway)
         num_games_A = len(awayhome) + len(awayaway)
 
+        if(i == 56):
+            pass
 
         try:
             Stats_2017["Sum_1D_gain_H"][i+adder] = (sum(np.array(Stats_2017["1D_gain_H"][homehome])) + sum(np.array(Stats_2017["1D_gain_A"][homeaway])))/num_games_H
@@ -221,7 +225,7 @@ odds_df["Winner"] = Stats_2020["Winner"]
 odds_df["Prob_Model_Home"] = pipe.predict_proba(X_test)[:,1] #Find probability of home team winning the game
 
 
-odds_2020 = pd.read_csv("2020_odds.csv")
+odds_2020 = pd.read_csv("Lines"+os.sep+"2020_odds.csv")
 
 odds_df["Odds_Home"] = odds_2020["Home_Odds"]
 odds_df["Odds_Away"] = odds_2020["Away_Odds"]
@@ -234,8 +238,13 @@ for i in range(odds_df.shape[0]):
     odds_df["Prob_Odds_Home"][i] = moneyline_prob(odds_df["Odds_Home"][i], odds_df["Odds_Away"][i])
     odds_df["Prob_Odds_Away"][i] = 1 - moneyline_prob(odds_df["Odds_Home"][i], odds_df["Odds_Away"][i])
 
+
+
     if(odds_df["Prob_Model_Home"][i] - odds_df["Prob_Odds_Home"][i] > 0.075):
+
+
         odds_df["Decision"][i] = "Home"
+        count = count + 1
         
         if(odds_df["Winner"][i] == 1):
             odds_df["Units_won_lost"][i] = odds_df["Odds_Home"][i] - 1
@@ -247,7 +256,8 @@ for i in range(odds_df.shape[0]):
 
     if(odds_df["Prob_Model_Home"][i] - odds_df["Prob_Odds_Home"][i] < -0.075):
         odds_df["Decision"][i] = "Away"
-        
+        count = count + 1
+
         if(odds_df["Winner"][i] == 0):
             odds_df["Units_won_lost"][i] = odds_df["Odds_Away"][i] - 1
         else:
@@ -261,5 +271,6 @@ if(sum(odds_df["Units_won_lost"].values) < 0):
     loss = abs(sum(odds_df["Units_won_lost"].values)) * 100 
     print("If I bet $100 dollars on all games where the model's probability and the odd's probability for a game differed by 7.5%, I would lose ${}".format(loss))
 
+print("{} games out of 269 had a difference in probability greater than 7.5%".format(count))
 #Need to update 2017-2019 stats after every week with new week NFL data, then run the model for the next week etc.
 #Also, do cross validation on 2020 dataset from 2017-2019 data, maybe add in 2019 to testing data and use 2016 data as well?
